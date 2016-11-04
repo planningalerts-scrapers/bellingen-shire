@@ -26,7 +26,7 @@ page = agent.get(url)
       'council_reference' => council_reference,
       'description'       => details.at("td").inner_text.split("\r")[1].strip[13..-1],
       'address'           => (info_page/'//*[@id="lblLand"]').inner_text.strip[0..-4],
-      'date_received'     => details.at("td").inner_html.split("<br>")[1].strip[11..-1],
+      'date_received'     => Date.strptime(details.at("td").inner_html.split("<br>")[1].strip[11..-1], "%d/%m/%Y").to_s,
       'info_url'          => info_page.uri.to_s,
       'comment_url'       => URI.escape("mailto:council@bellingen.nsw.gov.au?subject=Development Application Enquiry: #{council_reference}"),
       'date_scraped'      => Date.today.to_s
@@ -37,6 +37,8 @@ page = agent.get(url)
   end
 
   if ((ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty?) rescue true)
+#    puts record
+    puts "Saving record " + record['council_reference']
     ScraperWiki.save_sqlite(['council_reference'], record)
   else
     puts "Skipping already saved record " + record['council_reference']
