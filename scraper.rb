@@ -5,7 +5,7 @@ require 'uri'
 agent = Mechanize.new
 
 # All applications in the last month
-url = 'http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=F'
+url = 'http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA,CDC,TA,MD&6=F'
 page = agent.get(url)
 
 # Click the Agree button on the form
