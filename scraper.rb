@@ -27,7 +27,6 @@ page = agent.get(url)
       'address'           => (info_page/'//*[@id="lblLand"]').inner_text.strip.split("\n")[0].strip,
       'description'       => details.at("td").inner_text.split("\r")[1].strip[13..-1],
       'info_url'          => info_page.uri.to_s,
-      'comment_url'       => URI.escape("mailto:council@bellingen.nsw.gov.au?subject=Development Application Enquiry: #{council_reference}"),
       'date_scraped'      => Date.today.to_s,
       'date_received'     => Date.strptime(details.at("td").inner_html.split("<br>")[1].strip[11..-1], "%d/%m/%Y").to_s
     }
