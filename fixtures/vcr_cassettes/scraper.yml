@@ -39,11 +39,11 @@ http_interactions:
       X-Aspnet-Version:
       - 2.0.50727
       Set-Cookie:
-      - ASP.NET_SessionId=nfoi0ajxpirhhsf1prwsfwui; path=/; HttpOnly
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4; path=/; HttpOnly
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 13 Jun 2019 00:05:29 GMT
+      - Wed, 19 Jun 2019 05:35:32 GMT
     body:
       encoding: UTF-8
       string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
@@ -146,7 +146,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=nfoi0ajxpirhhsf1prwsfwui
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
       Host:
       - infomaster.bellingen.nsw.gov.au
       Referer:
@@ -179,7 +179,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 13 Jun 2019 00:05:30 GMT
+      - Wed, 19 Jun 2019 05:35:32 GMT
     body:
       encoding: UTF-8
       string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
@@ -204,7 +204,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=nfoi0ajxpirhhsf1prwsfwui
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
       Host:
       - infomaster.bellingen.nsw.gov.au
       Referer:
@@ -221,7 +221,7 @@ http_interactions:
       Cache-Control:
       - private
       Content-Length:
-      - '57119'
+      - '57134'
       Content-Type:
       - text/html; charset=utf-8
       Server:
@@ -231,7 +231,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 13 Jun 2019 00:05:32 GMT
+      - Wed, 19 Jun 2019 05:35:34 GMT
     body:
       encoding: UTF-8
       string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
@@ -632,11 +632,11 @@ http_interactions:
         border=\"0\" />&nbsp;<input type=\"image\" name=\"ctl03$drDates$btnList\"
         id=\"ctl03_drDates_btnList\" onMouseOut=\"delayhidemenu()\" onMouseOver=\"loadLinkSetDateRange('drDates');showmenuRange(event,linkset[0],document.all,document.all,this,'popmenudrDates');\"
         src=\"../../common/controlimages/newmessage.gif\" border=\"0\" />&nbsp;</div>\r\n<input
-        type=\"hidden\" value=\"10/06/2019\" id=\"hdn0adrDates\">\r\n<input type=\"hidden\"
-        value=\"13/06/2019\" id=\"hdn0bdrDates\">\r\n<input type=\"hidden\" value=\"2/06/2019\"
-        id=\"hdn1adrDates\">\r\n<input type=\"hidden\" value=\"8/06/2019\" id=\"hdn1bdrDates\">\r\n<input
+        type=\"hidden\" value=\"17/06/2019\" id=\"hdn0adrDates\">\r\n<input type=\"hidden\"
+        value=\"19/06/2019\" id=\"hdn0bdrDates\">\r\n<input type=\"hidden\" value=\"9/06/2019\"
+        id=\"hdn1adrDates\">\r\n<input type=\"hidden\" value=\"15/06/2019\" id=\"hdn1bdrDates\">\r\n<input
         type=\"hidden\" value=\"1/06/2019\" id=\"hdn2adrDates\">\r\n<input type=\"hidden\"
-        value=\"13/06/2019\" id=\"hdn2bdrDates\">\r\n<input type=\"hidden\" value=\"1/05/2019\"
+        value=\"19/06/2019\" id=\"hdn2bdrDates\">\r\n<input type=\"hidden\" value=\"1/05/2019\"
         id=\"hdn3adrDates\">\r\n<input type=\"hidden\" value=\"31/05/2019\" id=\"hdn3bdrDates\">\r\n<input
         type=\"hidden\" value=\"\" id=\"hdn4adrDates\">\r\n<input type=\"hidden\"
         value=\"\" id=\"hdn4bdrDates\">\r\n<DIV class=\"menuskin\" id=\"popmenudrDates\"
@@ -666,7 +666,7 @@ http_interactions:
         onfocus=\"obj_txtStreet.actb_keywords = txtStreet_list; obj_txtStreet.actb_firstText
         = true;obj_txtStreet.actb_startcheck =1;obj_txtStreet.actb_bgColor ='#6699FF';obj_txtStreet.actb_textColor
         ='white';obj_txtStreet.actb_hColor ='#AAAAAA';\" />&nbsp;</div><script>var
-        txtStreet_list=new Array('ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
+        txtStreet_list=new Array('ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELL','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
         STREET - DORRIGO SES','BERRY STREET - MEGAN RFS','BEVERLEYS','BIELSDOWN','BILLINGS','BISHOPS
         CREEK','BLACK','BLACKBUTT','BLAIRS','BLUE HILLS','BOAMBLE','BOGGY CREEK','BONVILLE','BORONIA','BORRA
         CREEK','BOSTOBRICK','BOUNDARY','BOWRA','BOWRA STREET','BOWRAVILLE','BRAITHWAITE','BREAKWELLS','BRIDGE','BRIGGENSHAWS','BRIGGSVALE','BRINER','BRUSH','BRUTONS','BUFFER
@@ -703,7 +703,7 @@ http_interactions:
         FERN','TUCKERS ROCK','TYRINGHAM','TYSON','URUNGA','URUNGA HEIGHTS','VALE','VALERY','VALLA','VALLEY
         VIEW','VERNON','VICTOR','VIEW','VINE','WADE','WALNUT','WALTER','WARATAH','WARDS','WATERFALL','WATSON','WATTLE','WEDGEWOOD','WENONAH','WEST','WESTERN
         BOUNDARY','WHEATLEY','WHISKY CREEK','WILLIAM','WILLIAM STREET','WILLS','WINTER','WIRI','WOLLUMBIN','WOODBURY','WOODLANDS','WOODWARD','YELLOW
-        ROCK','ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
+        ROCK','ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELL','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
         STREET - DORRIGO SES','BERRY STREET - MEGAN RFS','BEVERLEYS','BIELSDOWN','BILLINGS','BISHOPS
         CREEK','BLACK','BLACKBUTT','BLAIRS','BLUE HILLS','BOAMBLE','BOGGY CREEK','BONVILLE','BORONIA','BORRA
         CREEK','BOSTOBRICK','BOUNDARY','BOWRA','BOWRA STREET','BOWRAVILLE','BRAITHWAITE','BREAKWELLS','BRIDGE','BRIGGENSHAWS','BRIGGSVALE','BRINER','BRUSH','BRUTONS','BUFFER
@@ -798,7 +798,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=nfoi0ajxpirhhsf1prwsfwui
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
       Host:
       - infomaster.bellingen.nsw.gov.au
       Connection:
@@ -813,7 +813,7 @@ http_interactions:
       Cache-Control:
       - private
       Content-Length:
-      - '61407'
+      - '65677'
       Content-Type:
       - text/html; charset=utf-8
       Server:
@@ -823,7 +823,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 13 Jun 2019 00:05:35 GMT
+      - Wed, 19 Jun 2019 05:35:35 GMT
     body:
       encoding: UTF-8
       string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
@@ -838,7 +838,7 @@ http_interactions:
         id=\"Wait\" style=\"display:none;z-index:5;left:10px;position:absolute;top:expression(document.body.clientHeight-30)\">Loading.
         Please wait.....</div>\r\n\t\t<form name=\"frmMasterView\" method=\"post\"
         action=\"default.aspx\" id=\"frmMasterView\" AUTOCOMPLETE=\"Off\">\r\n<input
-        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgRmD2QWAmYPZBYCAgEPDxYCHwEFzg08dGFibGUgd2lkdGg9Ijk4JSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4NCiAgPHRyPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4NCiAgICAgIDxzdHJvbmc+TGluazwvc3Ryb25nPg0KICAgIDwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiIGFsaWduPSJjZW50ZXIiPg0KICAgICAgPHN0cm9uZz5BcHAgTm88L3N0cm9uZz4NCiAgICA8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIiB3aWR0aD0iNjAiPg0KICAgICAgPHN0cm9uZz5TdWJtaXR0ZWQ8L3N0cm9uZz4NCiAgICA8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIiBhbGlnbj0iY2VudGVyIj4NCiAgICAgIDxzdHJvbmc+RGV0YWlsczwvc3Ryb25nPg0KICAgIDwvdGQ+DQogIDwvdHI+DQogIDx0ciBjbGFzcz0idGFibGVMaW5lIj4NCiAgICA8dGQ+DQogICAgICA8YSBocmVmPSJkZWZhdWx0LmFzcHg/cGFnZT13cmFwcGVyJmFtcDtrZXk9NjM3MzIiIHRhcmdldD0iX3NlbGYiPg0KICAgICAgICA8aW1nIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvYm94X2dyb3Vwcy5naWYiIGJvcmRlcj0iMCIgYWx0PSJDbGljayBoZXJlIHRvIGdldCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgYXBwbGljYXRpb24iIC8+DQogICAgICA8L2E+DQogICAgPC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+MjAxOS9EQS0wMDA3MjwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjAzLzA2LzIwMTk8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4NCiAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBEd2VsbGluZzwvdGQ+DQogIDwvdHI+DQogIDx0ciBjbGFzcz0idGFibGVMaW5lIj4NCiAgICA8dGQ+DQogICAgICA8YSBocmVmPSJkZWZhdWx0LmFzcHg/cGFnZT13cmFwcGVyJmFtcDtrZXk9NjM3MzYiIHRhcmdldD0iX3NlbGYiPg0KICAgICAgICA8aW1nIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvYm94X2dyb3Vwcy5naWYiIGJvcmRlcj0iMCIgYWx0PSJDbGljayBoZXJlIHRvIGdldCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgYXBwbGljYXRpb24iIC8+DQogICAgICA8L2E+DQogICAgPC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+MjAxOS9EQS0wMDA3MzwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjA0LzA2LzIwMTk8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4NCiAgICAgIERlc2NyaXB0aW9uOiBBbHRlcmF0aW9ucyBhbmQgQWRkaXRpb25zIHRvIGEgRHdlbGxpbmc8L3RkPg0KICA8L3RyPg0KICA8dHIgY2xhc3M9InRhYmxlTGluZSI+DQogICAgPHRkPg0KICAgICAgPGEgaHJlZj0iZGVmYXVsdC5hc3B4P3BhZ2U9d3JhcHBlciZhbXA7a2V5PTYzNzM5IiB0YXJnZXQ9Il9zZWxmIj4NCiAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2JveF9ncm91cHMuZ2lmIiBib3JkZXI9IjAiIGFsdD0iQ2xpY2sgaGVyZSB0byBnZXQgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGFwcGxpY2F0aW9uIiAvPg0KICAgICAgPC9hPg0KICAgIDwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjIwMTkvREEtMDAwNzQ8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4wNy8wNi8yMDE5PC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+DQogICAgICBEZXNjcmlwdGlvbjogQ29uc3RydWN0aW9uIG9mIGEgU2hlZDwvdGQ+DQogIDwvdHI+DQo8L3RhYmxlPmRkAgIPZBYCZg9kFhACAQ8PFgIfAQUbQWxsIEFwcGxpY2F0aW9uIFR5cGUgU2VhcmNoZGQCBA9kFgICAw8QZA8WHWYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHBYdEAUEMjAxOQUEMjAxOWcQBQQyMDE4BQQyMDE4ZxAFBDIwMTcFBDIwMTdnEAUEMjAxNgUEMjAxNmcQBQQyMDE1BQQyMDE1ZxAFBDIwMTQFBDIwMTRnEAUEMjAxMwUEMjAxM2cQBQQyMDEyBQQyMDEyZxAFBDIwMTEFBDIwMTFnEAUEMjAxMAUEMjAxMGcQBQQyMDA5BQQyMDA5ZxAFBDIwMDgFBDIwMDhnEAUEMjAwNwUEMjAwN2cQBQQyMDA2BQQyMDA2ZxAFBDIwMDUFBDIwMDVnEAUEMjAwNAUEMjAwNGcQBQQyMDAzBQQyMDAzZxAFBDIwMDIFBDIwMDJnEAUEMjAwMQUEMjAwMWcQBQQyMDAwBQQyMDAwZxAFBDE5OTkFBDE5OTlnEAUEMTk5OAUEMTk5OGcQBQQxOTk3BQQxOTk3ZxAFBDE5OTYFBDE5OTZnEAUEMTk5NQUEMTk5NWcQBQQxOTk0BQQxOTk0ZxAFBDE5OTMFBDE5OTNnEAUEMTk5MgUEMTk5MmcQBQQxOTkxBQQxOTkxZxYBZmQCBQ9kFgICAw8QZA8WBWYCAQICAgMCBBYFEAUXRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24FAkRBZxAFGUNvbnN0cnVjdGlvbiBDZXJ0aWZpY2F0ZXMFAkNDZxAFFUNvbXBseWluZyBEZXZlbG9wbWVudAUDQ0RDZxAFBVRyZWVzBQJUQWcQBRlNb2RpZmljYXRpb24gQXBwbGljYXRpb25zBQMgTURnFgFmZAIJD2QWDgIDDw9kFgIeBm9uQmx1cgVURGF0ZVZhbGlkYXRpb24odGhpcywnZGF5JywnZGF0ZURpdmRyRGF0ZXMnKTtpc051bWVyaWModGhpcy52YWx1ZSwnZXJyb3JEaXZkckRhdGVzJyk7ZAIFDw9kFgIfAgVWRGF0ZVZhbGlkYXRpb24odGhpcywnbW9udGgnLCdkYXRlRGl2ZHJEYXRlcycpO2lzTnVtZXJpYyh0aGlzLnZhbHVlLCdlcnJvckRpdmRyRGF0ZXMnKTtkAgcPD2QWAh8CBVVEYXRlVmFsaWRhdGlvbih0aGlzLCd5ZWFyJywnZGF0ZURpdmRyRGF0ZXMnKTtpc051bWVyaWModGhpcy52YWx1ZSwnZXJyb3JEaXZkckRhdGVzJyk7ZAILDw9kFgIfAgVURGF0ZVZhbGlkYXRpb24odGhpcywnZGF5JywnZGF0ZURpdmRyRGF0ZXMnKTtpc051bWVyaWModGhpcy52YWx1ZSwnZXJyb3JEaXZkckRhdGVzJyk7ZAINDw9kFgIfAgVWRGF0ZVZhbGlkYXRpb24odGhpcywnbW9udGgnLCdkYXRlRGl2ZHJEYXRlcycpO2lzTnVtZXJpYyh0aGlzLnZhbHVlLCdlcnJvckRpdmRyRGF0ZXMnKTtkAg8PD2QWAh8CBVVEYXRlVmFsaWRhdGlvbih0aGlzLCd5ZWFyJywnZGF0ZURpdmRyRGF0ZXMnKTtpc051bWVyaWModGhpcy52YWx1ZSwnZXJyb3JEaXZkckRhdGVzJyk7ZAITDw9kFgIeC29uTW91c2VPdmVyBXBsb2FkTGlua1NldERhdGVSYW5nZSgnZHJEYXRlcycpO3Nob3dtZW51UmFuZ2UoZXZlbnQsbGlua3NldFswXSxkb2N1bWVudC5hbGwsZG9jdW1lbnQuYWxsLHRoaXMsJ3BvcG1lbnVkckRhdGVzJyk7ZAIND2QWAgIDDxAPFgYeDkRhdGFWYWx1ZUZpZWxkBQRUS2V5Hg1EYXRhVGV4dEZpZWxkBQtEZXNjcmlwdGlvbh4LXyFEYXRhQm91bmRnZBAVBhBBbGwgQXBwbGljYXRpb25zGERldmVsb3BtZW50IEFwcGxpY2F0aW9ucxlDb25zdHJ1Y3Rpb24gQ2VydGlmaWNhdGVzFUNvbXBseWluZyBEZXZlbG9wbWVudAVUcmVlcxhNb2RpZmljYXRpb24gQXBwbGljYXRpb24VBgxEQSxDQyxDREMsVEECREECQ0MDQ0RDAlRBAk1EFCsDBmdnZ2dnZxYBZmQCEQ9kFgQCAw8PZBYCHwIFKWlzTnVtZXJpYyh0aGlzLnZhbHVlLCdlcnJvckRpdm5yU3RyZWV0Jyk7ZAIFDw9kFgIfAgUpaXNOdW1lcmljKHRoaXMudmFsdWUsJ2Vycm9yRGl2bnJTdHJlZXQnKTtkAhMPZBYCAgMPD2QWAh4Hb25mb2N1cwXkAW9ial90eHRTdHJlZXQuYWN0Yl9rZXl3b3JkcyA9IHR4dFN0cmVldF9saXN0OyBvYmpfdHh0U3RyZWV0LmFjdGJfZmlyc3RUZXh0ID0gdHJ1ZTtvYmpfdHh0U3RyZWV0LmFjdGJfc3RhcnRjaGVjayA9MTtvYmpfdHh0U3RyZWV0LmFjdGJfYmdDb2xvciA9JyM2Njk5RkYnO29ial90eHRTdHJlZXQuYWN0Yl90ZXh0Q29sb3IgPSd3aGl0ZSc7b2JqX3R4dFN0cmVldC5hY3RiX2hDb2xvciA9JyNBQUFBQUEnO2QCFQ9kFgICAw8PZBYCHwcF5AFvYmpfdHh0U3VidXJiLmFjdGJfa2V5d29yZHMgPSB0eHRTdWJ1cmJfbGlzdDsgb2JqX3R4dFN1YnVyYi5hY3RiX2ZpcnN0VGV4dCA9IHRydWU7b2JqX3R4dFN1YnVyYi5hY3RiX3N0YXJ0Y2hlY2sgPTE7b2JqX3R4dFN1YnVyYi5hY3RiX2JnQ29sb3IgPScjNjY5OUZGJztvYmpfdHh0U3VidXJiLmFjdGJfdGV4dENvbG9yID0nd2hpdGUnO29ial90eHRTdWJ1cmIuYWN0Yl9oQ29sb3IgPScjQUFBQUFBJztkAgkPFgIfAQW4AzxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiPldhaXQuc3R5bGUuZGlzcGxheSA9ICdub25lJzs8L3NjcmlwdD4NCjxkaXYgaWQ9ImRpdkJhY2tUb1RvcCIgIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZXRvcCgpIiBjbGFzcz0iSGlkZGVuTmF2Ij48aW1nIHNyYz0iLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvdG9wLmdpZiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjI3IiBib3JkZXI9IjAiIGFsdD0iVG9wIG9mIHBhZ2UiPjwvZGl2PjxkaXYgaWQ9ImRpdk1vcmVPblBhZ2UiIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZWRvd24oKSIgY2xhc3M9IkhpZGRlbk5hdiI+PGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9iYXNlaW1hZ2VzL21vcmUuZ2lmIiB3aWR0aD0iMjIiIGhlaWdodD0iMjciIGJvcmRlcj0iMCIgYWx0PSJNb3JlIGluZm9ybWF0aW9uIG9uIHBhZ2UiPjwvZGl2Pg0KZAIND2QWAmYPZBYCAgIPFgIfAQVzPGg1PkhlbHA8L2g1PjxzcGFuIGNsYXNzPSJhY2tuIj48YSBocmVmPSJodHRwOi8vd3d3LmNpdmljYS5jb20uYXUiIHRhcmdldD0iX2JsYW5rIj4mIzE2OTsgQ2l2aWNhIFB0eSBMdGQ8L2E+PC9zcGFuPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgkFGWN0bDA0JGRyRGF0ZXMkYnRDYWxlbmRhcjEFGWN0bDA0JGRyRGF0ZXMkYnRDYWxlbmRhcjIFFWN0bDA0JGRyRGF0ZXMkYnRuTGlzdAULY3RsMDQkY3RsMTEFD2N0bDA0JGJ0blNlYXJjaAUOY3RsMDQkYnRuUmVzZXQFDmN0bDA1JENsb3NlQnRuBQdIZWxwQnRuBQhQcmludEJ0btXnsypZZqWvuvvQ7EAcntCGVnrF\"
+        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgRmD2QWAmYPZBYCAgEPDxYCHwEF7Rs8dGFibGUgd2lkdGg9Ijk4JSIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4NCiAgPHRyPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4NCiAgICAgIDxzdHJvbmc+TGluazwvc3Ryb25nPg0KICAgIDwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiIGFsaWduPSJjZW50ZXIiPg0KICAgICAgPHN0cm9uZz5BcHAgTm88L3N0cm9uZz4NCiAgICA8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIiB3aWR0aD0iNjAiPg0KICAgICAgPHN0cm9uZz5TdWJtaXR0ZWQ8L3N0cm9uZz4NCiAgICA8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIiBhbGlnbj0iY2VudGVyIj4NCiAgICAgIDxzdHJvbmc+RGV0YWlsczwvc3Ryb25nPg0KICAgIDwvdGQ+DQogIDwvdHI+DQogIDx0ciBjbGFzcz0idGFibGVMaW5lIj4NCiAgICA8dGQ+DQogICAgICA8YSBocmVmPSJkZWZhdWx0LmFzcHg/cGFnZT13cmFwcGVyJmFtcDtrZXk9NjM3MzIiIHRhcmdldD0iX3NlbGYiPg0KICAgICAgICA8aW1nIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvYm94X2dyb3Vwcy5naWYiIGJvcmRlcj0iMCIgYWx0PSJDbGljayBoZXJlIHRvIGdldCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgYXBwbGljYXRpb24iIC8+DQogICAgICA8L2E+DQogICAgPC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+MjAxOS9EQS0wMDA3MjwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjAzLzA2LzIwMTk8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4NCiAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBEd2VsbGluZzwvdGQ+DQogIDwvdHI+DQogIDx0ciBjbGFzcz0idGFibGVMaW5lIj4NCiAgICA8dGQ+DQogICAgICA8YSBocmVmPSJkZWZhdWx0LmFzcHg/cGFnZT13cmFwcGVyJmFtcDtrZXk9NjM3MzYiIHRhcmdldD0iX3NlbGYiPg0KICAgICAgICA8aW1nIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvYm94X2dyb3Vwcy5naWYiIGJvcmRlcj0iMCIgYWx0PSJDbGljayBoZXJlIHRvIGdldCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgYXBwbGljYXRpb24iIC8+DQogICAgICA8L2E+DQogICAgPC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+MjAxOS9EQS0wMDA3MzwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjA0LzA2LzIwMTk8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4NCiAgICAgIERlc2NyaXB0aW9uOiBBbHRlcmF0aW9ucyBhbmQgQWRkaXRpb25zIHRvIGEgRHdlbGxpbmc8L3RkPg0KICA8L3RyPg0KICA8dHIgY2xhc3M9InRhYmxlTGluZSI+DQogICAgPHRkPg0KICAgICAgPGEgaHJlZj0iZGVmYXVsdC5hc3B4P3BhZ2U9d3JhcHBlciZhbXA7a2V5PTYzNzQ2IiB0YXJnZXQ9Il9zZWxmIj4NCiAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2JveF9ncm91cHMuZ2lmIiBib3JkZXI9IjAiIGFsdD0iQ2xpY2sgaGVyZSB0byBnZXQgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGFwcGxpY2F0aW9uIiAvPg0KICAgICAgPC9hPg0KICAgIDwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjIwMTkvREEtMDAwNzU8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4wNi8wNi8yMDE5PC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+DQogICAgICBEZXNjcmlwdGlvbjogQ29uc3RydWN0aW9uIG9mIGEgRHdlbGxpbmcgYW5kIERlbW9saXRpb24gb2YgVW5hdXRob3Jpc2VkIFdvcmtzPC90ZD4NCiAgPC90cj4NCiAgPHRyIGNsYXNzPSJ0YWJsZUxpbmUiPg0KICAgIDx0ZD4NCiAgICAgIDxhIGhyZWY9ImRlZmF1bHQuYXNweD9wYWdlPXdyYXBwZXImYW1wO2tleT02MzczOSIgdGFyZ2V0PSJfc2VsZiI+DQogICAgICAgIDxpbWcgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9ib3hfZ3JvdXBzLmdpZiIgYm9yZGVyPSIwIiBhbHQ9IkNsaWNrIGhlcmUgdG8gZ2V0IGluZm9ybWF0aW9uIGFib3V0IHRoZSBhcHBsaWNhdGlvbiIgLz4NCiAgICAgIDwvYT4NCiAgICA8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4yMDE5L0RBLTAwMDc0PC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+MDcvMDYvMjAxOTwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPg0KICAgICAgRGVzY3JpcHRpb246IENvbnN0cnVjdGlvbiBvZiBhIFNoZWQ8L3RkPg0KICA8L3RyPg0KICA8dHIgY2xhc3M9InRhYmxlTGluZSI+DQogICAgPHRkPg0KICAgICAgPGEgaHJlZj0iZGVmYXVsdC5hc3B4P3BhZ2U9d3JhcHBlciZhbXA7a2V5PTYzNzYxIiB0YXJnZXQ9Il9zZWxmIj4NCiAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2JveF9ncm91cHMuZ2lmIiBib3JkZXI9IjAiIGFsdD0iQ2xpY2sgaGVyZSB0byBnZXQgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGFwcGxpY2F0aW9uIiAvPg0KICAgICAgPC9hPg0KICAgIDwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjIwMTkvREEtMDAwNzY8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4xMi8wNi8yMDE5PC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+DQogICAgICBEZXNjcmlwdGlvbjogQ29uc3RydWN0aW9uIG9mIGEgRHdlbGxpbmc8L3RkPg0KICA8L3RyPg0KICA8dHIgY2xhc3M9InRhYmxlTGluZSI+DQogICAgPHRkPg0KICAgICAgPGEgaHJlZj0iZGVmYXVsdC5hc3B4P3BhZ2U9d3JhcHBlciZhbXA7a2V5PTYzNzcwIiB0YXJnZXQ9Il9zZWxmIj4NCiAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2JveF9ncm91cHMuZ2lmIiBib3JkZXI9IjAiIGFsdD0iQ2xpY2sgaGVyZSB0byBnZXQgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGFwcGxpY2F0aW9uIiAvPg0KICAgICAgPC9hPg0KICAgIDwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjIwMTkvREEtMDAwNzc8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4xNy8wNi8yMDE5PC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+DQogICAgICBEZXNjcmlwdGlvbjogQ29uc3RydWN0aW9uIG9mIGEgRHdlbGxpbmc8L3RkPg0KICA8L3RyPg0KICA8dHIgY2xhc3M9InRhYmxlTGluZSI+DQogICAgPHRkPg0KICAgICAgPGEgaHJlZj0iZGVmYXVsdC5hc3B4P3BhZ2U9d3JhcHBlciZhbXA7a2V5PTYzNzczIiB0YXJnZXQ9Il9zZWxmIj4NCiAgICAgICAgPGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2JveF9ncm91cHMuZ2lmIiBib3JkZXI9IjAiIGFsdD0iQ2xpY2sgaGVyZSB0byBnZXQgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGFwcGxpY2F0aW9uIiAvPg0KICAgICAgPC9hPg0KICAgIDwvdGQ+DQogICAgPHRkIGNsYXNzPSJ0YWJsZUxpbmUiPjIwMTkvREEtMDAwNzg8L3RkPg0KICAgIDx0ZCBjbGFzcz0idGFibGVMaW5lIj4xOC8wNi8yMDE5PC90ZD4NCiAgICA8dGQgY2xhc3M9InRhYmxlTGluZSI+DQogICAgICBEZXNjcmlwdGlvbjogQ29uc3RydWN0aW9uIG9mIGEgU2Vjb25kYXJ5IGR3ZWxsaW5nPC90ZD4NCiAgPC90cj4NCjwvdGFibGU+ZGQCAg9kFgJmD2QWEAIBDw8WAh8BBRtBbGwgQXBwbGljYXRpb24gVHlwZSBTZWFyY2hkZAIED2QWAgIDDxBkDxYdZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhECEgITAhQCFQIWAhcCGAIZAhoCGwIcFh0QBQQyMDE5BQQyMDE5ZxAFBDIwMTgFBDIwMThnEAUEMjAxNwUEMjAxN2cQBQQyMDE2BQQyMDE2ZxAFBDIwMTUFBDIwMTVnEAUEMjAxNAUEMjAxNGcQBQQyMDEzBQQyMDEzZxAFBDIwMTIFBDIwMTJnEAUEMjAxMQUEMjAxMWcQBQQyMDEwBQQyMDEwZxAFBDIwMDkFBDIwMDlnEAUEMjAwOAUEMjAwOGcQBQQyMDA3BQQyMDA3ZxAFBDIwMDYFBDIwMDZnEAUEMjAwNQUEMjAwNWcQBQQyMDA0BQQyMDA0ZxAFBDIwMDMFBDIwMDNnEAUEMjAwMgUEMjAwMmcQBQQyMDAxBQQyMDAxZxAFBDIwMDAFBDIwMDBnEAUEMTk5OQUEMTk5OWcQBQQxOTk4BQQxOTk4ZxAFBDE5OTcFBDE5OTdnEAUEMTk5NgUEMTk5NmcQBQQxOTk1BQQxOTk1ZxAFBDE5OTQFBDE5OTRnEAUEMTk5MwUEMTk5M2cQBQQxOTkyBQQxOTkyZxAFBDE5OTEFBDE5OTFnFgFmZAIFD2QWAgIDDxBkDxYFZgIBAgICAwIEFgUQBRdEZXZlbG9wbWVudCBBcHBsaWNhdGlvbgUCREFnEAUZQ29uc3RydWN0aW9uIENlcnRpZmljYXRlcwUCQ0NnEAUVQ29tcGx5aW5nIERldmVsb3BtZW50BQNDRENnEAUFVHJlZXMFAlRBZxAFGU1vZGlmaWNhdGlvbiBBcHBsaWNhdGlvbnMFAyBNRGcWAWZkAgkPZBYOAgMPD2QWAh4Gb25CbHVyBVREYXRlVmFsaWRhdGlvbih0aGlzLCdkYXknLCdkYXRlRGl2ZHJEYXRlcycpO2lzTnVtZXJpYyh0aGlzLnZhbHVlLCdlcnJvckRpdmRyRGF0ZXMnKTtkAgUPD2QWAh8CBVZEYXRlVmFsaWRhdGlvbih0aGlzLCdtb250aCcsJ2RhdGVEaXZkckRhdGVzJyk7aXNOdW1lcmljKHRoaXMudmFsdWUsJ2Vycm9yRGl2ZHJEYXRlcycpO2QCBw8PZBYCHwIFVURhdGVWYWxpZGF0aW9uKHRoaXMsJ3llYXInLCdkYXRlRGl2ZHJEYXRlcycpO2lzTnVtZXJpYyh0aGlzLnZhbHVlLCdlcnJvckRpdmRyRGF0ZXMnKTtkAgsPD2QWAh8CBVREYXRlVmFsaWRhdGlvbih0aGlzLCdkYXknLCdkYXRlRGl2ZHJEYXRlcycpO2lzTnVtZXJpYyh0aGlzLnZhbHVlLCdlcnJvckRpdmRyRGF0ZXMnKTtkAg0PD2QWAh8CBVZEYXRlVmFsaWRhdGlvbih0aGlzLCdtb250aCcsJ2RhdGVEaXZkckRhdGVzJyk7aXNOdW1lcmljKHRoaXMudmFsdWUsJ2Vycm9yRGl2ZHJEYXRlcycpO2QCDw8PZBYCHwIFVURhdGVWYWxpZGF0aW9uKHRoaXMsJ3llYXInLCdkYXRlRGl2ZHJEYXRlcycpO2lzTnVtZXJpYyh0aGlzLnZhbHVlLCdlcnJvckRpdmRyRGF0ZXMnKTtkAhMPD2QWAh4Lb25Nb3VzZU92ZXIFcGxvYWRMaW5rU2V0RGF0ZVJhbmdlKCdkckRhdGVzJyk7c2hvd21lbnVSYW5nZShldmVudCxsaW5rc2V0WzBdLGRvY3VtZW50LmFsbCxkb2N1bWVudC5hbGwsdGhpcywncG9wbWVudWRyRGF0ZXMnKTtkAg0PZBYCAgMPEA8WBh4ORGF0YVZhbHVlRmllbGQFBFRLZXkeDURhdGFUZXh0RmllbGQFC0Rlc2NyaXB0aW9uHgtfIURhdGFCb3VuZGdkEBUGEEFsbCBBcHBsaWNhdGlvbnMYRGV2ZWxvcG1lbnQgQXBwbGljYXRpb25zGUNvbnN0cnVjdGlvbiBDZXJ0aWZpY2F0ZXMVQ29tcGx5aW5nIERldmVsb3BtZW50BVRyZWVzGE1vZGlmaWNhdGlvbiBBcHBsaWNhdGlvbhUGDERBLENDLENEQyxUQQJEQQJDQwNDREMCVEECTUQUKwMGZ2dnZ2dnFgFmZAIRD2QWBAIDDw9kFgIfAgUpaXNOdW1lcmljKHRoaXMudmFsdWUsJ2Vycm9yRGl2bnJTdHJlZXQnKTtkAgUPD2QWAh8CBSlpc051bWVyaWModGhpcy52YWx1ZSwnZXJyb3JEaXZuclN0cmVldCcpO2QCEw9kFgICAw8PZBYCHgdvbmZvY3VzBeQBb2JqX3R4dFN0cmVldC5hY3RiX2tleXdvcmRzID0gdHh0U3RyZWV0X2xpc3Q7IG9ial90eHRTdHJlZXQuYWN0Yl9maXJzdFRleHQgPSB0cnVlO29ial90eHRTdHJlZXQuYWN0Yl9zdGFydGNoZWNrID0xO29ial90eHRTdHJlZXQuYWN0Yl9iZ0NvbG9yID0nIzY2OTlGRic7b2JqX3R4dFN0cmVldC5hY3RiX3RleHRDb2xvciA9J3doaXRlJztvYmpfdHh0U3RyZWV0LmFjdGJfaENvbG9yID0nI0FBQUFBQSc7ZAIVD2QWAgIDDw9kFgIfBwXkAW9ial90eHRTdWJ1cmIuYWN0Yl9rZXl3b3JkcyA9IHR4dFN1YnVyYl9saXN0OyBvYmpfdHh0U3VidXJiLmFjdGJfZmlyc3RUZXh0ID0gdHJ1ZTtvYmpfdHh0U3VidXJiLmFjdGJfc3RhcnRjaGVjayA9MTtvYmpfdHh0U3VidXJiLmFjdGJfYmdDb2xvciA9JyM2Njk5RkYnO29ial90eHRTdWJ1cmIuYWN0Yl90ZXh0Q29sb3IgPSd3aGl0ZSc7b2JqX3R4dFN1YnVyYi5hY3RiX2hDb2xvciA9JyNBQUFBQUEnO2QCCQ8WAh8BBbgDPHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCI+V2FpdC5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnOzwvc2NyaXB0Pg0KPGRpdiBpZD0iZGl2QmFja1RvVG9wIiAgb25DbGljaz0iamF2YXNjcmlwdDptdF9wYWdldG9wKCkiIGNsYXNzPSJIaWRkZW5OYXYiPjxpbWcgc3JjPSIuLi8uLi9jb21tb24vYmFzZWltYWdlcy90b3AuZ2lmIiB3aWR0aD0iMTgiIGhlaWdodD0iMjciIGJvcmRlcj0iMCIgYWx0PSJUb3Agb2YgcGFnZSI+PC9kaXY+PGRpdiBpZD0iZGl2TW9yZU9uUGFnZSIgb25DbGljaz0iamF2YXNjcmlwdDptdF9wYWdlZG93bigpIiBjbGFzcz0iSGlkZGVuTmF2Ij48aW1nIHNyYz0iLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvbW9yZS5naWYiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyNyIgYm9yZGVyPSIwIiBhbHQ9Ik1vcmUgaW5mb3JtYXRpb24gb24gcGFnZSI+PC9kaXY+DQpkAg0PZBYCZg9kFgICAg8WAh8BBXM8aDU+SGVscDwvaDU+PHNwYW4gY2xhc3M9ImFja24iPjxhIGhyZWY9Imh0dHA6Ly93d3cuY2l2aWNhLmNvbS5hdSIgdGFyZ2V0PSJfYmxhbmsiPiYjMTY5OyBDaXZpY2EgUHR5IEx0ZDwvYT48L3NwYW4+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WCQUZY3RsMDQkZHJEYXRlcyRidENhbGVuZGFyMQUZY3RsMDQkZHJEYXRlcyRidENhbGVuZGFyMgUVY3RsMDQkZHJEYXRlcyRidG5MaXN0BQtjdGwwNCRjdGwxMQUPY3RsMDQkYnRuU2VhcmNoBQ5jdGwwNCRidG5SZXNldAUOY3RsMDUkQ2xvc2VCdG4FB0hlbHBCdG4FCFByaW50QnRuXBN3E9YLJDOMlZAztS3E/zJ46Xg=\"
         />\r\n\r\n\r\n<script language='javascript'>\r\nfunction setControlFocus(ctrlID,cCode)\r\n{\r\nif
         (cCode==13)\r\n{\r\ndocument.getElementById(ctrlID).focus();\r\ndocument.getElementById(ctrlID).click();\r\n}\r\n}\r\n</script>\r\n<script
         language='javascript'>function DateValidation(e,type,divID) {\r\nvar tmp=document.getElementById(e.id).value;\r\nvar
@@ -1186,14 +1186,36 @@ http_interactions:
         \   </td>\r\n    <td class=\"tableLine\">2019/DA-00073</td>\r\n    <td class=\"tableLine\">04/06/2019</td>\r\n
         \   <td class=\"tableLine\">\r\n      Description: Alterations and Additions
         to a Dwelling</td>\r\n  </tr>\r\n  <tr class=\"tableLine\">\r\n    <td>\r\n
-        \     <a href=\"default.aspx?page=wrapper&amp;key=63739\" target=\"_self\">\r\n
+        \     <a href=\"default.aspx?page=wrapper&amp;key=63746\" target=\"_self\">\r\n
+        \       <img src=\"../../common/controlimages/box_groups.gif\" border=\"0\"
+        alt=\"Click here to get information about the application\" />\r\n      </a>\r\n
+        \   </td>\r\n    <td class=\"tableLine\">2019/DA-00075</td>\r\n    <td class=\"tableLine\">06/06/2019</td>\r\n
+        \   <td class=\"tableLine\">\r\n      Description: Construction of a Dwelling
+        and Demolition of Unauthorised Works</td>\r\n  </tr>\r\n  <tr class=\"tableLine\">\r\n
+        \   <td>\r\n      <a href=\"default.aspx?page=wrapper&amp;key=63739\" target=\"_self\">\r\n
         \       <img src=\"../../common/controlimages/box_groups.gif\" border=\"0\"
         alt=\"Click here to get information about the application\" />\r\n      </a>\r\n
         \   </td>\r\n    <td class=\"tableLine\">2019/DA-00074</td>\r\n    <td class=\"tableLine\">07/06/2019</td>\r\n
         \   <td class=\"tableLine\">\r\n      Description: Construction of a Shed</td>\r\n
-        \ </tr>\r\n</table></span></p>\r\n\r\n</div>\r\n<br/><div id=\"ctl04_pnlSearch\"
-        class=\"border\">\r\n\t\r\n\t<h5><span id=\"ctl04_lblHead\">All Application
-        Type Search</span></h5>\r\n<span></span><div style=\"padding-left:3px;\"><span>App.
+        \ </tr>\r\n  <tr class=\"tableLine\">\r\n    <td>\r\n      <a href=\"default.aspx?page=wrapper&amp;key=63761\"
+        target=\"_self\">\r\n        <img src=\"../../common/controlimages/box_groups.gif\"
+        border=\"0\" alt=\"Click here to get information about the application\" />\r\n
+        \     </a>\r\n    </td>\r\n    <td class=\"tableLine\">2019/DA-00076</td>\r\n
+        \   <td class=\"tableLine\">12/06/2019</td>\r\n    <td class=\"tableLine\">\r\n
+        \     Description: Construction of a Dwelling</td>\r\n  </tr>\r\n  <tr class=\"tableLine\">\r\n
+        \   <td>\r\n      <a href=\"default.aspx?page=wrapper&amp;key=63770\" target=\"_self\">\r\n
+        \       <img src=\"../../common/controlimages/box_groups.gif\" border=\"0\"
+        alt=\"Click here to get information about the application\" />\r\n      </a>\r\n
+        \   </td>\r\n    <td class=\"tableLine\">2019/DA-00077</td>\r\n    <td class=\"tableLine\">17/06/2019</td>\r\n
+        \   <td class=\"tableLine\">\r\n      Description: Construction of a Dwelling</td>\r\n
+        \ </tr>\r\n  <tr class=\"tableLine\">\r\n    <td>\r\n      <a href=\"default.aspx?page=wrapper&amp;key=63773\"
+        target=\"_self\">\r\n        <img src=\"../../common/controlimages/box_groups.gif\"
+        border=\"0\" alt=\"Click here to get information about the application\" />\r\n
+        \     </a>\r\n    </td>\r\n    <td class=\"tableLine\">2019/DA-00078</td>\r\n
+        \   <td class=\"tableLine\">18/06/2019</td>\r\n    <td class=\"tableLine\">\r\n
+        \     Description: Construction of a Secondary dwelling</td>\r\n  </tr>\r\n</table></span></p>\r\n\r\n</div>\r\n<br/><div
+        id=\"ctl04_pnlSearch\" class=\"border\">\r\n\t\r\n\t<h5><span id=\"ctl04_lblHead\">All
+        Application Type Search</span></h5>\r\n<span></span><div style=\"padding-left:3px;\"><span>App.
         Year:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number:</span><br
         /><select name=\"ctl04$ctl01$txtField\" id=\"ctl04_ctl01_txtField\" class=\"inpt\"
         style=\"WIDTH:60px\">\r\n\t\t<option selected=\"selected\" value=\"2019\">2019</option>\r\n\t\t<option
@@ -1235,7 +1257,7 @@ http_interactions:
         id=\"ctl04_drDates_btCalendar1\" src=\"../../common/controlimages/calendar.gif\"
         onclick=\"openCalendar(event,this,'txtDay1','txtMonth1','txtYear1','../../modules/framework/calendar.aspx');\"
         border=\"0\" />&nbsp;&nbsp;to&nbsp;&nbsp;<input name=\"ctl04$drDates$txtDay2\"
-        type=\"text\" value=\"13\" id=\"ctl04_drDates_txtDay2\" class=\"inpt\" onBlur=\"DateValidation(this,'day','dateDivdrDates');isNumeric(this.value,'errorDivdrDates');\"
+        type=\"text\" value=\"19\" id=\"ctl04_drDates_txtDay2\" class=\"inpt\" onBlur=\"DateValidation(this,'day','dateDivdrDates');isNumeric(this.value,'errorDivdrDates');\"
         style=\"WIDTH:21px\" />&nbsp;<FONT color=\"#6699ff\" size=\"4\"><STRONG>/</STRONG></FONT>&nbsp;<input
         name=\"ctl04$drDates$txtMonth2\" type=\"text\" value=\"6\" id=\"ctl04_drDates_txtMonth2\"
         class=\"inpt\" onBlur=\"DateValidation(this,'month','dateDivdrDates');isNumeric(this.value,'errorDivdrDates');\"
@@ -1249,11 +1271,11 @@ http_interactions:
         border=\"0\" />&nbsp;<input type=\"image\" name=\"ctl04$drDates$btnList\"
         id=\"ctl04_drDates_btnList\" onMouseOut=\"delayhidemenu()\" onMouseOver=\"loadLinkSetDateRange('drDates');showmenuRange(event,linkset[0],document.all,document.all,this,'popmenudrDates');\"
         src=\"../../common/controlimages/newmessage.gif\" border=\"0\" />&nbsp;</div>\r\n<input
-        type=\"hidden\" value=\"10/06/2019\" id=\"hdn0adrDates\">\r\n<input type=\"hidden\"
-        value=\"13/06/2019\" id=\"hdn0bdrDates\">\r\n<input type=\"hidden\" value=\"2/06/2019\"
-        id=\"hdn1adrDates\">\r\n<input type=\"hidden\" value=\"8/06/2019\" id=\"hdn1bdrDates\">\r\n<input
+        type=\"hidden\" value=\"17/06/2019\" id=\"hdn0adrDates\">\r\n<input type=\"hidden\"
+        value=\"19/06/2019\" id=\"hdn0bdrDates\">\r\n<input type=\"hidden\" value=\"9/06/2019\"
+        id=\"hdn1adrDates\">\r\n<input type=\"hidden\" value=\"15/06/2019\" id=\"hdn1bdrDates\">\r\n<input
         type=\"hidden\" value=\"1/06/2019\" id=\"hdn2adrDates\">\r\n<input type=\"hidden\"
-        value=\"13/06/2019\" id=\"hdn2bdrDates\">\r\n<input type=\"hidden\" value=\"1/05/2019\"
+        value=\"19/06/2019\" id=\"hdn2bdrDates\">\r\n<input type=\"hidden\" value=\"1/05/2019\"
         id=\"hdn3adrDates\">\r\n<input type=\"hidden\" value=\"31/05/2019\" id=\"hdn3bdrDates\">\r\n<input
         type=\"hidden\" value=\"\" id=\"hdn4adrDates\">\r\n<input type=\"hidden\"
         value=\"\" id=\"hdn4bdrDates\">\r\n<DIV class=\"menuskin\" id=\"popmenudrDates\"
@@ -1283,7 +1305,7 @@ http_interactions:
         onfocus=\"obj_txtStreet.actb_keywords = txtStreet_list; obj_txtStreet.actb_firstText
         = true;obj_txtStreet.actb_startcheck =1;obj_txtStreet.actb_bgColor ='#6699FF';obj_txtStreet.actb_textColor
         ='white';obj_txtStreet.actb_hColor ='#AAAAAA';\" />&nbsp;</div><script>var
-        txtStreet_list=new Array('ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
+        txtStreet_list=new Array('ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELL','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
         STREET - DORRIGO SES','BERRY STREET - MEGAN RFS','BEVERLEYS','BIELSDOWN','BILLINGS','BISHOPS
         CREEK','BLACK','BLACKBUTT','BLAIRS','BLUE HILLS','BOAMBLE','BOGGY CREEK','BONVILLE','BORONIA','BORRA
         CREEK','BOSTOBRICK','BOUNDARY','BOWRA','BOWRA STREET','BOWRAVILLE','BRAITHWAITE','BREAKWELLS','BRIDGE','BRIGGENSHAWS','BRIGGSVALE','BRINER','BRUSH','BRUTONS','BUFFER
@@ -1320,7 +1342,7 @@ http_interactions:
         FERN','TUCKERS ROCK','TYRINGHAM','TYSON','URUNGA','URUNGA HEIGHTS','VALE','VALERY','VALLA','VALLEY
         VIEW','VERNON','VICTOR','VIEW','VINE','WADE','WALNUT','WALTER','WARATAH','WARDS','WATERFALL','WATSON','WATTLE','WEDGEWOOD','WENONAH','WEST','WESTERN
         BOUNDARY','WHEATLEY','WHISKY CREEK','WILLIAM','WILLIAM STREET','WILLS','WINTER','WIRI','WOLLUMBIN','WOODBURY','WOODLANDS','WOODWARD','YELLOW
-        ROCK','ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
+        ROCK','ACACIA','ADAMS','ALEX PIKE','ALICE','ALLANS','ALLISON','ALMA','ANGPHORA','ASH','ATHERTON','AZALEA','BACKHOUSIA','BAILEY','BAKER','BAKERS','BALCOMB','BALLARDS','BANGALOW','BARTELLS','BARTLETTS','BASIN','BAYLDON','BEACH','BEAN','BEAUMONTS','BEECH','BELL','BELLINGEN','BENNETT','BENNETTS','BERRY','BERRY
         STREET - DORRIGO SES','BERRY STREET - MEGAN RFS','BEVERLEYS','BIELSDOWN','BILLINGS','BISHOPS
         CREEK','BLACK','BLACKBUTT','BLAIRS','BLUE HILLS','BOAMBLE','BOGGY CREEK','BONVILLE','BORONIA','BORRA
         CREEK','BOSTOBRICK','BOUNDARY','BOWRA','BOWRA STREET','BOWRAVILLE','BRAITHWAITE','BREAKWELLS','BRIDGE','BRIGGENSHAWS','BRIGGSVALE','BRINER','BRUSH','BRUTONS','BUFFER
@@ -1415,7 +1437,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=nfoi0ajxpirhhsf1prwsfwui
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
       Host:
       - infomaster.bellingen.nsw.gov.au
       Connection:
@@ -1440,7 +1462,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 13 Jun 2019 00:05:47 GMT
+      - Wed, 19 Jun 2019 05:35:45 GMT
     body:
       encoding: UTF-8
       string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
@@ -1604,7 +1626,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=nfoi0ajxpirhhsf1prwsfwui
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
       Host:
       - infomaster.bellingen.nsw.gov.au
       Connection:
@@ -1629,7 +1651,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 13 Jun 2019 00:05:53 GMT
+      - Wed, 19 Jun 2019 05:35:49 GMT
     body:
       encoding: UTF-8
       string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
@@ -1778,6 +1800,196 @@ http_interactions:
   recorded_at: Mon, 13 May 2019 14:00:00 GMT
 - request:
     method: get
+    uri: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?key=63746&page=wrapper
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
+      Host:
+      - infomaster.bellingen.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Length:
+      - '22121'
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.0
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Wed, 19 Jun 2019 05:35:53 GMT
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
+        target=\"_top\" />\r\n\t\t<link href=\"../../MasterView.css\" type=\"text/css\"
+        rel=\"stylesheet\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"icon\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"shortcut icon\" />\r\n\t\t<META HTTP-EQUIV=\"CACHE-CONTROL\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<META
+        HTTP-EQUIV=\"PRAGMA\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/masterView.js\"></script>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/dtree.js\"></script>\r\n\t</head>\r\n\t<body> <!--  onload=\"hide('Help')\">
+        -->\r\n\t\t<script type=\"text/javascript\" src=\"../../common/wz_dragdrop.js\"></script>\r\n\t\t<div
+        id=\"Wait\" style=\"display:none;z-index:5;left:10px;position:absolute;top:expression(document.body.clientHeight-30)\">Loading.
+        Please wait.....</div>\r\n\t\t<form name=\"frmMasterView\" method=\"post\"
+        action=\"default.aspx\" id=\"frmMasterView\" AUTOCOMPLETE=\"Off\">\r\n<input
+        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgJmD2QWAmYPZBYGAgEPDxYCHwEFKzIwMTkvREEtMDAwNzUgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQlkZAIDDw8WAh8BBe4oPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxEZXRhaWxzJywgJ2ltZ0RldGFpbHMnKTsiPg0KPElNRyBpZD0iaW1nRGV0YWlscyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RGV0YWlsczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGV0YWlscyI+DQo8dGFibGU+DQogIDx0cj4NCiAgICA8dGQ+DQogICAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBEd2VsbGluZyBhbmQgRGVtb2xpdGlvbiBvZiBVbmF1dGhvcmlzZWQgV29ya3M8YnIgLz4NCiAgICAgICAgU3VibWl0dGVkOiAwNi8wNi8yMDE5PGJyIC8+PC90ZD4NCiAgPC90cj4NCjwvdGFibGU+Jm5ic3A7RGV0ZXJtaW5hdGlvbiBEZXNjcmlwdGlvbjogUHJlbGltIEFzc2Vzc21lbnQ8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTGFuZCcsICdpbWdMYW5kJyk7Ij4NCjxJTUcgaWQ9ImltZ0xhbmQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkFkZHJlc3M8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibExhbmQiPg0KNTgyIE9sZCBDb2FzdCBSRCBOT1JUSCBET1JSSUdPIE5TVyAyNDUzDQo8YnIgLz48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTWFwJywgJ2ltZ01hcCcpOyI+DQo8SU1HIGlkPSJpbWdNYXAiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvY2xvc2VkLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+TWFwPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxNYXAiIHN0eWxlPSJESVNQTEFZOm5vbmUiPg0KPGlmcmFtZSBzcmM9Imh0dHA6Ly9pbmZvbWFzdGVyLmJlbGxpbmdlbi5uc3cuZ292LmF1L21hcHhzZXJ2ZXIvbWFwQ29udHJvbHMuYXNweCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzMCIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIG5hbWU9Im1hcENvbnRyb2xzIj48L2lmcmFtZT4NCjxpZnJhbWUgc3JjPSJodHRwOi8vaW5mb21hc3Rlci5iZWxsaW5nZW4ubnN3Lmdvdi5hdS9tYXB4c2VydmVyL21hcHguYXNweD9rZXlzPTE0NTcxJk1hcEtleXM9MTQ1NzEmaG9zdD0iIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBjbGFzcz0iYm9yZGVyIiBzY3JvbGxpbmc9Im5vIiBmcmFtZWJvcmRlcj0iMCIgbmFtZT0ibWFwRnJhbWUiPjwvaWZyYW1lPjxicj48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsQXBwbGljYW50JywgJ2ltZ0FwcGxpY2FudCcpOyI+DQo8SU1HIGlkPSJpbWdBcHBsaWNhbnQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvY2xvc2VkLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+QXBwbGljYW50PC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxBcHBsaWNhbnQiIHN0eWxlPSJESVNQTEFZOm5vbmUiPg0KSW5uZXJjaGkgU3R1ZGlvcyBDb250YWN0OiBEdXN0aW4gTGVhbmV5DQo8YnIgLz48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsU3RhdHVzJywgJ2ltZ1N0YXR1cycpOyI+DQo8SU1HIGlkPSJpbWdTdGF0dXMiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkV2ZW50czwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsU3RhdHVzIj4NCjx0YWJsZSB3aWR0aD0nOTglJyBjZWxscGFkZGluZz0nMScgY2VsbHNwYWNpbmc9JzAnPjx0ciBjbGFzcz0ndGFibGVBbHQnPjx0ZD5EZXNjcmlwdGlvbjwvdGQ+PHRkPlN0YXJ0IERhdGU8L3RkPjx0ZD5Db21wbGV0ZWQgRGF0ZTwvdGQ+PC90cj48dHI+PC90YWJsZT48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsQ2xvY2snLCAnaW1nQ2xvY2snKTsiPg0KPElNRyBpZD0iaW1nQ2xvY2siIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkNsb2NrJm5ic3A7U3RhdHVzPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxDbG9jayI+DQo8aW1nIHNyYz0nLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvYmFsbF9ncmVlbi5naWYnPiBDbG9jayBSdW5uaW5nLjxicj48aW1nIHNyYz0nLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvY2FsZW5kYXIxLmdpZic+IFRoZSBjbG9jayB3YXMgc3RvcHBlZCBmb3IgYSB0b3RhbCBvZiA8Yj4wPC9iPiBkYXlzLjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxSZWxhdGVkJywgJ2ltZ1JlbGF0ZWQnKTsiPg0KPElNRyBpZD0iaW1nUmVsYXRlZCIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+UmVsYXRlZCBBcHBsaWNhdGlvbnM8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibFJlbGF0ZWQiPg0KDQogICAgICBObyBhcHBsaWNhdGlvbnMgcmVsYXRlZCB0byB0aGlzIGFwcGxpY2F0aW9uLg0KICAgIDwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxDb3N0JywgJ2ltZ0Nvc3QnKTsiPg0KPElNRyBpZD0iaW1nQ29zdCIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+Q29zdDwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsQ29zdCI+DQpFc3RpbWF0ZWQgY29zdCBvZiBkZXZlbG9wbWVudDogJDQ1LDAwMC4wMDwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxPZmZpY2VyJywgJ2ltZ09mZmljZXInKTsiPg0KPElNRyBpZD0iaW1nT2ZmaWNlciIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+T2ZmaWNlcjwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsT2ZmaWNlciI+DQpObyBvZmZpY2VyIHJlY29yZGVkPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibERlY2lzaW9uJywgJ2ltZ0RlY2lzaW9uJyk7Ij4NCjxJTUcgaWQ9ImltZ0RlY2lzaW9uIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5EZWNpc2lvbjwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGVjaXNpb24iPg0KUGVuZGluZyAoMTQvMDYvMjAxOSk8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsOTEnLCAnaW1nOTEnKTsiPg0KPElNRyBpZD0iaW1nOTEiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkVtYWlsPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmw5MSI+DQo8YSBocmVmPSJtYWlsdG86Y291bmNpbEBiZWxsaW5nZW4ubnN3Lmdvdi5hdT9zdWJqZWN0PURldmVsb3BtZW50IEFwcGxpY2F0aW9uIEVucXVpcnk6IDIwMTkvREEtMDAwNzUgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQkmQm9keT0iIG9uZm9jdXM9InRoaXMuYmx1cigpIj48dT5Db250YWN0IHVzIGFib3V0IHRoaXMgYXBwbGljYXRpb24uPC91PjwvYT48L0RJVj4NCjwvVEQ+PC9UUj4NCmRkAgUPDxYCHwEFfDxhIGhyZWY9J2phdmFzY3JpcHQ6ZXhwYW5kQ29sbGFwc2UoImNvbGxhcHNlIiknPmNsb3NlIGFsbDwvYT4gfCA8YSBocmVmPSdqYXZhc2NyaXB0OmV4cGFuZENvbGxhcHNlKCJleHBhbmQiKSc+b3BlbiBhbGw8L2E+DQpkZAIJDxYCHwEFxQg8c2NyaXB0IGxhbmd1YWdlPSdqYXZhc2NyaXB0Jz4NCmZ1bmN0aW9uIFNob3dIaWRlKGEsIGIpIHsNCnZhciBpc19nZXRFbGVtZW50QnlJZCAgID0gKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKSA/IHRydWUgOiBmYWxzZTsNCnZhciBhZ3Q9bmF2aWdhdG9yLnVzZXJBZ2VudC50b0xvd2VyQ2FzZSgpOw0KaWYgKChhZ3QuaW5kZXhPZignbWFjJyk9PS0xfHxhZ3QuaW5kZXhPZignbXNpZScpPT0tMSkgJiYgaXNfZ2V0RWxlbWVudEJ5SWQpew0KaWYgKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5zdWJzdHJpbmcoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjLmxlbmd0aC04LGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5sZW5ndGgpPT0nb3Blbi5naWYnKSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYnOw0KZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYSkuc3R5bGUuZGlzcGxheT0nbm9uZSc7fQ0KZWxzZSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmJzsNCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGEpLnN0eWxlLmRpc3BsYXk9Jyc7fX19DQo8L3NjcmlwdD4NCjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiPldhaXQuc3R5bGUuZGlzcGxheSA9ICdub25lJzs8L3NjcmlwdD4NCjxkaXYgaWQ9ImRpdkJhY2tUb1RvcCIgIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZXRvcCgpIiBjbGFzcz0iSGlkZGVuTmF2Ij48aW1nIHNyYz0iLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvdG9wLmdpZiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjI3IiBib3JkZXI9IjAiIGFsdD0iVG9wIG9mIHBhZ2UiPjwvZGl2PjxkaXYgaWQ9ImRpdk1vcmVPblBhZ2UiIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZWRvd24oKSIgY2xhc3M9IkhpZGRlbk5hdiI+PGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9iYXNlaW1hZ2VzL21vcmUuZ2lmIiB3aWR0aD0iMjIiIGhlaWdodD0iMjciIGJvcmRlcj0iMCIgYWx0PSJNb3JlIGluZm9ybWF0aW9uIG9uIHBhZ2UiPjwvZGl2Pg0KZAIND2QWAmYPZBYCAgIPFgIfAQVzPGg1PkhlbHA8L2g1PjxzcGFuIGNsYXNzPSJhY2tuIj48YSBocmVmPSJodHRwOi8vd3d3LmNpdmljYS5jb20uYXUiIHRhcmdldD0iX2JsYW5rIj4mIzE2OTsgQ2l2aWNhIFB0eSBMdGQ8L2E+PC9zcGFuPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFDmN0bDA0JENsb3NlQnRuBQdIZWxwQnRuBQhQcmludEJ0bj2nUdkOR9ZvfS2I+Oqv0DcSJ7ts\"
+        />\r\n\r\n<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\" id=\"__VIEWSTATEGENERATOR\"
+        value=\"8C83F922\" />\r\n\t\t\t<div id=\"Banner\" class=\"Banner\">\r\n\r\n\r\n<table
+        cellspacing='0' cellpadding='0' width='100%'>\r\n<tr>\r\n<td colspan='2' height='15'
+        class='fill'><font font-family='Arial' color='white'>Bellingen Shire Council</font></td>\r\n</tr>\r\n<tr>\r\n<td
+        style=\"background-color:#99CCFF;\"><img src='../../images/logo1.png'></td><td
+        style=\"background-color:#99CCFF;\" align='right'><img src='../../images/banner1.jpg'></td>\r\n</tr>\r\n<tr>\r\n<td
+        \ class='fill' colspan='2' height='15'>&nbsp;</td>\r\n</tr>\r\n</table></div><br
+        />\r\n\t\t\t<div id=\"LeftPane\">\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n<div id=\"ctl01_all\">\r\n\r\n\r\n<b>Search</b>\r\n<span id=\"ctl01_lblLinksAll\"><a
+        href='default.aspx?page=search' target='_self' class='current'>All Applications</a><br/><a
+        href='default.aspx?page=searchDA' target='_self'>Development&nbsp;Applications</a><br/><a
+        href='default.aspx?page=searchCC' target='_self'>Construction&nbsp;Certificates</a><br/><a
+        href='default.aspx?page=searchCDC' target='_self'>Complying Development</a><br/><a
+        href='default.aspx?page=searchMD' target='_self'>Modification&nbsp;Applications</a><br
+        /></span>\r\n<br>\r\n\r\n<!-- <span class=\"line\"></span> -->\r\n<b>All Submitted</b>\r\n<a
+        href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=F\" target=\"_self\">&nbsp;&nbsp;&nbsp;This
+        Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        --><br/>\r\n\r\n<b>All Determined</b>\r\n<a href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        -->\r\n</div>\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<br/><br/>\r\n\r\n<div align=\"center\">\r\n\t<span id=\"ctl02_lblInfo\"></span>\r\n\t<!--
+        <img src=\"../../images/bn_logo.gif\" alt=\"MasterView\"/> -->\r\n</div>\r\n\r\n\r\n\r\n<br/><br/></div>\r\n\t\t\t<div
+        id=\"RightPane\"><div id=\"ctl03_pnlApplicationWrapper\" class=\"border\">\r\n\t\r\n\t<h5>Application
+        Details</h5>\r\n\t<h4>Application: <span id=\"ctl03_lblHead\">2019/DA-00075
+        (Development Application)\r\n\t\t</span></h4>\r\n\t<div class=\"list\">\r\n\t\t<p>\r\n\t\t<table
+        class=\"list\" cellSpacing=\"0\" cellPadding=\"1\" width=\"98%\" border=\"0\">\r\n\t\t\t<span
+        id=\"ctl03_lblDetails\"><TR>\r\n<TD vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN
+        style=\"CURSOR: hand\" onclick=\"ShowHide('lblDetails', 'imgDetails');\">\r\n<IMG
+        id=\"imgDetails\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Details</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblDetails\">\r\n<table>\r\n  <tr>\r\n
+        \   <td>\r\n        Description: Construction of a Dwelling and Demolition
+        of Unauthorised Works<br />\r\n        Submitted: 06/06/2019<br /></td>\r\n
+        \ </tr>\r\n</table>&nbsp;Determination Description: Prelim Assessment</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblLand', 'imgLand');\">\r\n<IMG id=\"imgLand\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Address</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblLand\">\r\n582 Old Coast RD NORTH
+        DORRIGO NSW 2453\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblMap',
+        'imgMap');\">\r\n<IMG id=\"imgMap\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Map</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblMap\" style=\"DISPLAY:none\">\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapControls.aspx\"
+        width=\"500\" height=\"30\" scrolling=\"no\" frameborder=\"0\" name=\"mapControls\"></iframe>\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapx.aspx?keys=14571&MapKeys=14571&host=\"
+        width=\"500\" height=\"500\" class=\"border\" scrolling=\"no\" frameborder=\"0\"
+        name=\"mapFrame\"></iframe><br></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblApplicant',
+        'imgApplicant');\">\r\n<IMG id=\"imgApplicant\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Applicant</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblApplicant\" style=\"DISPLAY:none\">\r\nInnerchi
+        Studios Contact: Dustin Leaney\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblStatus', 'imgStatus');\">\r\n<IMG id=\"imgStatus\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Events</B></TD>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"*\">\r\n<DIV id=\"lblStatus\">\r\n<table width='98%' cellpadding='1'
+        cellspacing='0'><tr class='tableAlt'><td>Description</td><td>Start Date</td><td>Completed
+        Date</td></tr><tr></table></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblClock',
+        'imgClock');\">\r\n<IMG id=\"imgClock\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Clock&nbsp;Status</B></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"*\">\r\n<DIV id=\"lblClock\">\r\n<img
+        src='../../common/baseimages/ball_green.gif'> Clock Running.<br><img src='../../common/baseimages/calendar1.gif'>
+        The clock was stopped for a total of <b>0</b> days.</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblRelated', 'imgRelated');\">\r\n<IMG id=\"imgRelated\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Related Applications</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblRelated\">\r\n\r\n      No applications
+        related to this application.\r\n    </DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblCost',
+        'imgCost');\">\r\n<IMG id=\"imgCost\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Cost</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblCost\">\r\nEstimated cost of development:
+        $45,000.00</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblOfficer',
+        'imgOfficer');\">\r\n<IMG id=\"imgOfficer\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Officer</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblOfficer\">\r\nNo officer recorded</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblDecision', 'imgDecision');\">\r\n<IMG id=\"imgDecision\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Decision</B></TD>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"*\">\r\n<DIV id=\"lblDecision\">\r\nPending (14/06/2019)</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lbl91', 'img91');\">\r\n<IMG id=\"img91\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Email</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lbl91\">\r\n<a href=\"mailto:council@bellingen.nsw.gov.au?subject=Development
+        Application Enquiry: 2019/DA-00075 (Development Application)\r\n\t\t&Body=\"
+        onfocus=\"this.blur()\"><u>Contact us about this application.</u></a></DIV>\r\n</TD></TR>\r\n</span>\r\n\t\t</table>\r\n\t\t</p>\r\n\t</div>\r\n\t<p><span
+        id=\"ctl03_lblLink\"><a href='javascript:expandCollapse(\"collapse\")'>close
+        all</a> | <a href='javascript:expandCollapse(\"expand\")'>open all</a>\r\n</span></p>\r\n\r\n</div>\r\n\r\n\r\n<div
+        class=\"ackn\">\r\n\t<a href=\"http://www.civica.com.au\" target=\"_blank\">&#169;
+        Civica Pty Ltd</a>\r\n</div><span id=\"ctl06_lbl\" class=\"ackn\"></span><br/>\r\n\r\n</div>\r\n\t\t\t<div
+        id=\"Filler\"></div>\r\n\t\t\t<script language='javascript'>\r\nfunction ShowHide(a,
+        b) {\r\nvar is_getElementById   = (document.getElementById) ? true : false;\r\nvar
+        agt=navigator.userAgent.toLowerCase();\r\nif ((agt.indexOf('mac')==-1||agt.indexOf('msie')==-1)
+        && is_getElementById){\r\nif (document.getElementById(b).src.substring(document.getElementById(b).src.length-8,document.getElementById(b).src.length)=='open.gif')
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/closed.gif';\r\ndocument.getElementById(a).style.display='none';}\r\nelse
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/open.gif';\r\ndocument.getElementById(a).style.display='';}}}\r\n</script>\r\n<script
+        language=\"JavaScript\">Wait.style.display = 'none';</script>\r\n<div id=\"divBackToTop\"
+        \ onClick=\"javascript:mt_pagetop()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/top.gif\"
+        width=\"18\" height=\"27\" border=\"0\" alt=\"Top of page\"></div><div id=\"divMoreOnPage\"
+        onClick=\"javascript:mt_pagedown()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/more.gif\"
+        width=\"22\" height=\"27\" border=\"0\" alt=\"More information on page\"></div>\r\n\r\n\t\t\t<div
+        id=\"Search\"></div>\r\n\t\t\t\r\n\t\t\t<div id=\"Help\" class=\"help\" style=\"position:absolute;display:'none';\"><input
+        type=\"image\" name=\"ctl04$CloseBtn\" id=\"ctl04_CloseBtn\" src=\"../../common/controlimages/box_key.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:4px;left:560px;cursor:hand;\"
+        />\r\n<h5>Help</h5><span class=\"ackn\"><a href=\"http://www.civica.com.au\"
+        target=\"_blank\">&#169; Civica Pty Ltd</a></span>\r\n\r\n</div>\r\n\t\t\t<input
+        type=\"image\" name=\"HelpBtn\" id=\"HelpBtn\" src=\"../../common/controlimages/box_faq.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:152;left:781px;cursor:hand;\"
+        />\r\n\t\t\t<input type=\"image\" name=\"PrintBtn\" id=\"PrintBtn\" src=\"../../common/controlimages/box_print.gif\"
+        alt=\"Print Page\" border=\"0\" style=\"position:absolute;top:152;left:766px;cursor:hand;\"
+        />\r\n\t\t</form>\r\n\t\t<script type=\"text/javascript\">\r\n\t\t\t<!--\r\n\t\t\tSET_DHTML(RESIZABLE,\"Help\"+TRANSPARENT);\r\n\t\t\t//-->\r\n\t\t</script>
+        \t\r\n\t</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
     uri: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?key=63739&page=wrapper
     body:
       encoding: US-ASCII
@@ -1794,7 +2006,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=nfoi0ajxpirhhsf1prwsfwui
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
       Host:
       - infomaster.bellingen.nsw.gov.au
       Connection:
@@ -1809,7 +2021,7 @@ http_interactions:
       Cache-Control:
       - private
       Content-Length:
-      - '21547'
+      - '21959'
       Content-Type:
       - text/html; charset=utf-8
       Server:
@@ -1819,7 +2031,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 13 Jun 2019 00:06:00 GMT
+      - Wed, 19 Jun 2019 05:35:57 GMT
     body:
       encoding: UTF-8
       string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
@@ -1834,7 +2046,7 @@ http_interactions:
         id=\"Wait\" style=\"display:none;z-index:5;left:10px;position:absolute;top:expression(document.body.clientHeight-30)\">Loading.
         Please wait.....</div>\r\n\t\t<form name=\"frmMasterView\" method=\"post\"
         action=\"default.aspx\" id=\"frmMasterView\" AUTOCOMPLETE=\"Off\">\r\n<input
-        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgJmD2QWAmYPZBYGAgEPDxYCHwEFKzIwMTkvREEtMDAwNzQgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQlkZAIDDw8WAh8BBfgmPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxEZXRhaWxzJywgJ2ltZ0RldGFpbHMnKTsiPg0KPElNRyBpZD0iaW1nRGV0YWlscyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RGV0YWlsczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGV0YWlscyI+DQo8dGFibGU+DQogIDx0cj4NCiAgICA8dGQ+DQogICAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBTaGVkPGJyIC8+DQogICAgICAgIFN1Ym1pdHRlZDogMDcvMDYvMjAxOTxiciAvPjwvdGQ+DQogIDwvdHI+DQo8L3RhYmxlPiZuYnNwO0RldGVybWluYXRpb24gRGVzY3JpcHRpb246IDwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxMYW5kJywgJ2ltZ0xhbmQnKTsiPg0KPElNRyBpZD0iaW1nTGFuZCIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+QWRkcmVzczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsTGFuZCI+DQogQm93cmF2aWxsZSBSRCBCRUxMSU5HRU4gTlNXIDI0NTQNCjxiciAvPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxNYXAnLCAnaW1nTWFwJyk7Ij4NCjxJTUcgaWQ9ImltZ01hcCIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9jbG9zZWQuZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5NYXA8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibE1hcCIgc3R5bGU9IkRJU1BMQVk6bm9uZSI+DQo8aWZyYW1lIHNyYz0iaHR0cDovL2luZm9tYXN0ZXIuYmVsbGluZ2VuLm5zdy5nb3YuYXUvbWFweHNlcnZlci9tYXBDb250cm9scy5hc3B4IiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjMwIiBzY3JvbGxpbmc9Im5vIiBmcmFtZWJvcmRlcj0iMCIgbmFtZT0ibWFwQ29udHJvbHMiPjwvaWZyYW1lPg0KPGlmcmFtZSBzcmM9Imh0dHA6Ly9pbmZvbWFzdGVyLmJlbGxpbmdlbi5uc3cuZ292LmF1L21hcHhzZXJ2ZXIvbWFweC5hc3B4P2tleXM9NjI2NSZNYXBLZXlzPTYyNjUmaG9zdD0iIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBjbGFzcz0iYm9yZGVyIiBzY3JvbGxpbmc9Im5vIiBmcmFtZWJvcmRlcj0iMCIgbmFtZT0ibWFwRnJhbWUiPjwvaWZyYW1lPjxicj48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsQXBwbGljYW50JywgJ2ltZ0FwcGxpY2FudCcpOyI+DQo8SU1HIGlkPSJpbWdBcHBsaWNhbnQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvY2xvc2VkLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+QXBwbGljYW50PC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxBcHBsaWNhbnQiIHN0eWxlPSJESVNQTEFZOm5vbmUiPg0KRGF2aWQgQ3JveHRvbg0KPGJyIC8+PC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibFN0YXR1cycsICdpbWdTdGF0dXMnKTsiPg0KPElNRyBpZD0iaW1nU3RhdHVzIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5FdmVudHM8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibFN0YXR1cyI+DQo8dGFibGUgd2lkdGg9Jzk4JScgY2VsbHBhZGRpbmc9JzEnIGNlbGxzcGFjaW5nPScwJz48dHIgY2xhc3M9J3RhYmxlQWx0Jz48dGQ+RGVzY3JpcHRpb248L3RkPjx0ZD5TdGFydCBEYXRlPC90ZD48dGQ+Q29tcGxldGVkIERhdGU8L3RkPjwvdHI+PHRyPjwvdGFibGU+PC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibENsb2NrJywgJ2ltZ0Nsb2NrJyk7Ij4NCjxJTUcgaWQ9ImltZ0Nsb2NrIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5DbG9jayZuYnNwO1N0YXR1czwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsQ2xvY2siPg0KTm8gaW5mb3JtYXRpb24gcmVjb3JkZWQ8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsUmVsYXRlZCcsICdpbWdSZWxhdGVkJyk7Ij4NCjxJTUcgaWQ9ImltZ1JlbGF0ZWQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPlJlbGF0ZWQgQXBwbGljYXRpb25zPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxSZWxhdGVkIj4NCg0KICAgICAgTm8gYXBwbGljYXRpb25zIHJlbGF0ZWQgdG8gdGhpcyBhcHBsaWNhdGlvbi4NCiAgICA8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsQ29zdCcsICdpbWdDb3N0Jyk7Ij4NCjxJTUcgaWQ9ImltZ0Nvc3QiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkNvc3Q8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibENvc3QiPg0KRXN0aW1hdGVkIGNvc3Qgb2YgZGV2ZWxvcG1lbnQ6ICQwLjAwPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibE9mZmljZXInLCAnaW1nT2ZmaWNlcicpOyI+DQo8SU1HIGlkPSJpbWdPZmZpY2VyIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5PZmZpY2VyPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxPZmZpY2VyIj4NCk5vIG9mZmljZXIgcmVjb3JkZWQ8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsRGVjaXNpb24nLCAnaW1nRGVjaXNpb24nKTsiPg0KPElNRyBpZD0iaW1nRGVjaXNpb24iIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkRlY2lzaW9uPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxEZWNpc2lvbiI+DQpOb3QgeWV0IGRldGVybWluZWQ8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsOTEnLCAnaW1nOTEnKTsiPg0KPElNRyBpZD0iaW1nOTEiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkVtYWlsPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmw5MSI+DQo8YSBocmVmPSJtYWlsdG86Y291bmNpbEBiZWxsaW5nZW4ubnN3Lmdvdi5hdT9zdWJqZWN0PURldmVsb3BtZW50IEFwcGxpY2F0aW9uIEVucXVpcnk6IDIwMTkvREEtMDAwNzQgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQkmQm9keT0iIG9uZm9jdXM9InRoaXMuYmx1cigpIj48dT5Db250YWN0IHVzIGFib3V0IHRoaXMgYXBwbGljYXRpb24uPC91PjwvYT48L0RJVj4NCjwvVEQ+PC9UUj4NCmRkAgUPDxYCHwEFfDxhIGhyZWY9J2phdmFzY3JpcHQ6ZXhwYW5kQ29sbGFwc2UoImNvbGxhcHNlIiknPmNsb3NlIGFsbDwvYT4gfCA8YSBocmVmPSdqYXZhc2NyaXB0OmV4cGFuZENvbGxhcHNlKCJleHBhbmQiKSc+b3BlbiBhbGw8L2E+DQpkZAIJDxYCHwEFxQg8c2NyaXB0IGxhbmd1YWdlPSdqYXZhc2NyaXB0Jz4NCmZ1bmN0aW9uIFNob3dIaWRlKGEsIGIpIHsNCnZhciBpc19nZXRFbGVtZW50QnlJZCAgID0gKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKSA/IHRydWUgOiBmYWxzZTsNCnZhciBhZ3Q9bmF2aWdhdG9yLnVzZXJBZ2VudC50b0xvd2VyQ2FzZSgpOw0KaWYgKChhZ3QuaW5kZXhPZignbWFjJyk9PS0xfHxhZ3QuaW5kZXhPZignbXNpZScpPT0tMSkgJiYgaXNfZ2V0RWxlbWVudEJ5SWQpew0KaWYgKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5zdWJzdHJpbmcoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjLmxlbmd0aC04LGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5sZW5ndGgpPT0nb3Blbi5naWYnKSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYnOw0KZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYSkuc3R5bGUuZGlzcGxheT0nbm9uZSc7fQ0KZWxzZSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmJzsNCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGEpLnN0eWxlLmRpc3BsYXk9Jyc7fX19DQo8L3NjcmlwdD4NCjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiPldhaXQuc3R5bGUuZGlzcGxheSA9ICdub25lJzs8L3NjcmlwdD4NCjxkaXYgaWQ9ImRpdkJhY2tUb1RvcCIgIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZXRvcCgpIiBjbGFzcz0iSGlkZGVuTmF2Ij48aW1nIHNyYz0iLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvdG9wLmdpZiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjI3IiBib3JkZXI9IjAiIGFsdD0iVG9wIG9mIHBhZ2UiPjwvZGl2PjxkaXYgaWQ9ImRpdk1vcmVPblBhZ2UiIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZWRvd24oKSIgY2xhc3M9IkhpZGRlbk5hdiI+PGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9iYXNlaW1hZ2VzL21vcmUuZ2lmIiB3aWR0aD0iMjIiIGhlaWdodD0iMjciIGJvcmRlcj0iMCIgYWx0PSJNb3JlIGluZm9ybWF0aW9uIG9uIHBhZ2UiPjwvZGl2Pg0KZAIND2QWAmYPZBYCAgIPFgIfAQVzPGg1PkhlbHA8L2g1PjxzcGFuIGNsYXNzPSJhY2tuIj48YSBocmVmPSJodHRwOi8vd3d3LmNpdmljYS5jb20uYXUiIHRhcmdldD0iX2JsYW5rIj4mIzE2OTsgQ2l2aWNhIFB0eSBMdGQ8L2E+PC9zcGFuPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFDmN0bDA0JENsb3NlQnRuBQdIZWxwQnRuBQhQcmludEJ0brmzMCuJ/VbzWXegvyhznKehA4sw\"
+        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgJmD2QWAmYPZBYGAgEPDxYCHwEFKzIwMTkvREEtMDAwNzQgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQlkZAIDDw8WAh8BBagoPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxEZXRhaWxzJywgJ2ltZ0RldGFpbHMnKTsiPg0KPElNRyBpZD0iaW1nRGV0YWlscyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RGV0YWlsczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGV0YWlscyI+DQo8dGFibGU+DQogIDx0cj4NCiAgICA8dGQ+DQogICAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBTaGVkPGJyIC8+DQogICAgICAgIFN1Ym1pdHRlZDogMDcvMDYvMjAxOTxiciAvPjwvdGQ+DQogIDwvdHI+DQo8L3RhYmxlPiZuYnNwO0RldGVybWluYXRpb24gRGVzY3JpcHRpb246IFByZWxpbXVuYXJ5IEFzc2Vzc21lbnQ8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTGFuZCcsICdpbWdMYW5kJyk7Ij4NCjxJTUcgaWQ9ImltZ0xhbmQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkFkZHJlc3M8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibExhbmQiPg0KIEJvd3JhdmlsbGUgUkQgQkVMTElOR0VOIE5TVyAyNDU0DQo8YnIgLz48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTWFwJywgJ2ltZ01hcCcpOyI+DQo8SU1HIGlkPSJpbWdNYXAiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvY2xvc2VkLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+TWFwPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxNYXAiIHN0eWxlPSJESVNQTEFZOm5vbmUiPg0KPGlmcmFtZSBzcmM9Imh0dHA6Ly9pbmZvbWFzdGVyLmJlbGxpbmdlbi5uc3cuZ292LmF1L21hcHhzZXJ2ZXIvbWFwQ29udHJvbHMuYXNweCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzMCIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIG5hbWU9Im1hcENvbnRyb2xzIj48L2lmcmFtZT4NCjxpZnJhbWUgc3JjPSJodHRwOi8vaW5mb21hc3Rlci5iZWxsaW5nZW4ubnN3Lmdvdi5hdS9tYXB4c2VydmVyL21hcHguYXNweD9rZXlzPTYyNjUmTWFwS2V5cz02MjY1Jmhvc3Q9IiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgY2xhc3M9ImJvcmRlciIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIG5hbWU9Im1hcEZyYW1lIj48L2lmcmFtZT48YnI+PC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibEFwcGxpY2FudCcsICdpbWdBcHBsaWNhbnQnKTsiPg0KPElNRyBpZD0iaW1nQXBwbGljYW50IiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkFwcGxpY2FudDwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsQXBwbGljYW50IiBzdHlsZT0iRElTUExBWTpub25lIj4NCkRhdmlkIENyb3h0b24NCjxiciAvPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxTdGF0dXMnLCAnaW1nU3RhdHVzJyk7Ij4NCjxJTUcgaWQ9ImltZ1N0YXR1cyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RXZlbnRzPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxTdGF0dXMiPg0KPHRhYmxlIHdpZHRoPSc5OCUnIGNlbGxwYWRkaW5nPScxJyBjZWxsc3BhY2luZz0nMCc+PHRyIGNsYXNzPSd0YWJsZUFsdCc+PHRkPkRlc2NyaXB0aW9uPC90ZD48dGQ+U3RhcnQgRGF0ZTwvdGQ+PHRkPkNvbXBsZXRlZCBEYXRlPC90ZD48L3RyPjx0cj48L3RhYmxlPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxDbG9jaycsICdpbWdDbG9jaycpOyI+DQo8SU1HIGlkPSJpbWdDbG9jayIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+Q2xvY2smbmJzcDtTdGF0dXM8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibENsb2NrIj4NCjxpbWcgc3JjPScuLi8uLi9jb21tb24vYmFzZWltYWdlcy9iYWxsX2dyZWVuLmdpZic+IENsb2NrIFJ1bm5pbmcuPGJyPjxpbWcgc3JjPScuLi8uLi9jb21tb24vYmFzZWltYWdlcy9jYWxlbmRhcjEuZ2lmJz4gVGhlIGNsb2NrIHdhcyBzdG9wcGVkIGZvciBhIHRvdGFsIG9mIDxiPjA8L2I+IGRheXMuPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibFJlbGF0ZWQnLCAnaW1nUmVsYXRlZCcpOyI+DQo8SU1HIGlkPSJpbWdSZWxhdGVkIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5SZWxhdGVkIEFwcGxpY2F0aW9uczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsUmVsYXRlZCI+DQoNCiAgICAgIE5vIGFwcGxpY2F0aW9ucyByZWxhdGVkIHRvIHRoaXMgYXBwbGljYXRpb24uDQogICAgPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibENvc3QnLCAnaW1nQ29zdCcpOyI+DQo8SU1HIGlkPSJpbWdDb3N0IiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5Db3N0PC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxDb3N0Ij4NCkVzdGltYXRlZCBjb3N0IG9mIGRldmVsb3BtZW50OiAkMjUsMDAwLjAwPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibE9mZmljZXInLCAnaW1nT2ZmaWNlcicpOyI+DQo8SU1HIGlkPSJpbWdPZmZpY2VyIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5PZmZpY2VyPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxPZmZpY2VyIj4NCk5vIG9mZmljZXIgcmVjb3JkZWQ8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsRGVjaXNpb24nLCAnaW1nRGVjaXNpb24nKTsiPg0KPElNRyBpZD0iaW1nRGVjaXNpb24iIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkRlY2lzaW9uPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxEZWNpc2lvbiI+DQpQZW5kaW5nICgxMi8wNi8yMDE5KTwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmw5MScsICdpbWc5MScpOyI+DQo8SU1HIGlkPSJpbWc5MSIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RW1haWw8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibDkxIj4NCjxhIGhyZWY9Im1haWx0bzpjb3VuY2lsQGJlbGxpbmdlbi5uc3cuZ292LmF1P3N1YmplY3Q9RGV2ZWxvcG1lbnQgQXBwbGljYXRpb24gRW5xdWlyeTogMjAxOS9EQS0wMDA3NCAoRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24pDQoJCSZCb2R5PSIgb25mb2N1cz0idGhpcy5ibHVyKCkiPjx1PkNvbnRhY3QgdXMgYWJvdXQgdGhpcyBhcHBsaWNhdGlvbi48L3U+PC9hPjwvRElWPg0KPC9URD48L1RSPg0KZGQCBQ8PFgIfAQV8PGEgaHJlZj0namF2YXNjcmlwdDpleHBhbmRDb2xsYXBzZSgiY29sbGFwc2UiKSc+Y2xvc2UgYWxsPC9hPiB8IDxhIGhyZWY9J2phdmFzY3JpcHQ6ZXhwYW5kQ29sbGFwc2UoImV4cGFuZCIpJz5vcGVuIGFsbDwvYT4NCmRkAgkPFgIfAQXFCDxzY3JpcHQgbGFuZ3VhZ2U9J2phdmFzY3JpcHQnPg0KZnVuY3Rpb24gU2hvd0hpZGUoYSwgYikgew0KdmFyIGlzX2dldEVsZW1lbnRCeUlkICAgPSAoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQpID8gdHJ1ZSA6IGZhbHNlOw0KdmFyIGFndD1uYXZpZ2F0b3IudXNlckFnZW50LnRvTG93ZXJDYXNlKCk7DQppZiAoKGFndC5pbmRleE9mKCdtYWMnKT09LTF8fGFndC5pbmRleE9mKCdtc2llJyk9PS0xKSAmJiBpc19nZXRFbGVtZW50QnlJZCl7DQppZiAoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjLnN1YnN0cmluZyhkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmMubGVuZ3RoLTgsZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjLmxlbmd0aCk9PSdvcGVuLmdpZicpIHsNCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYz0nLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvY2xvc2VkLmdpZic7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChhKS5zdHlsZS5kaXNwbGF5PSdub25lJzt9DQplbHNlIHsNCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYz0nLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYnOw0KZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYSkuc3R5bGUuZGlzcGxheT0nJzt9fX0NCjwvc2NyaXB0Pg0KPHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCI+V2FpdC5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnOzwvc2NyaXB0Pg0KPGRpdiBpZD0iZGl2QmFja1RvVG9wIiAgb25DbGljaz0iamF2YXNjcmlwdDptdF9wYWdldG9wKCkiIGNsYXNzPSJIaWRkZW5OYXYiPjxpbWcgc3JjPSIuLi8uLi9jb21tb24vYmFzZWltYWdlcy90b3AuZ2lmIiB3aWR0aD0iMTgiIGhlaWdodD0iMjciIGJvcmRlcj0iMCIgYWx0PSJUb3Agb2YgcGFnZSI+PC9kaXY+PGRpdiBpZD0iZGl2TW9yZU9uUGFnZSIgb25DbGljaz0iamF2YXNjcmlwdDptdF9wYWdlZG93bigpIiBjbGFzcz0iSGlkZGVuTmF2Ij48aW1nIHNyYz0iLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvbW9yZS5naWYiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyNyIgYm9yZGVyPSIwIiBhbHQ9Ik1vcmUgaW5mb3JtYXRpb24gb24gcGFnZSI+PC9kaXY+DQpkAg0PZBYCZg9kFgICAg8WAh8BBXM8aDU+SGVscDwvaDU+PHNwYW4gY2xhc3M9ImFja24iPjxhIGhyZWY9Imh0dHA6Ly93d3cuY2l2aWNhLmNvbS5hdSIgdGFyZ2V0PSJfYmxhbmsiPiYjMTY5OyBDaXZpY2EgUHR5IEx0ZDwvYT48L3NwYW4+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUOY3RsMDQkQ2xvc2VCdG4FB0hlbHBCdG4FCFByaW50QnRugrL0YP6Retfw3Vt7igNQAxNhV4g=\"
         />\r\n\r\n<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\" id=\"__VIEWSTATEGENERATOR\"
         value=\"8C83F922\" />\r\n\t\t\t<div id=\"Banner\" class=\"Banner\">\r\n\r\n\r\n<table
         cellspacing='0' cellpadding='0' width='100%'>\r\n<tr>\r\n<td colspan='2' height='15'
@@ -1879,9 +2091,9 @@ http_interactions:
         align=\"left\" width=\"*\">\r\n<DIV id=\"lblDetails\">\r\n<table>\r\n  <tr>\r\n
         \   <td>\r\n        Description: Construction of a Shed<br />\r\n        Submitted:
         07/06/2019<br /></td>\r\n  </tr>\r\n</table>&nbsp;Determination Description:
-        </DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN
-        style=\"CURSOR: hand\" onclick=\"ShowHide('lblLand', 'imgLand');\">\r\n<IMG
-        id=\"imgLand\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        Prelimunary Assessment</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblLand',
+        'imgLand');\">\r\n<IMG id=\"imgLand\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\"><B>Address</B></TD>\r\n<TD vAlign=\"top\"
         align=\"left\" width=\"*\">\r\n<DIV id=\"lblLand\">\r\n Bowraville RD BELLINGEN
         NSW 2454\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
@@ -1908,32 +2120,601 @@ http_interactions:
         vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
         onclick=\"ShowHide('lblClock', 'imgClock');\">\r\n<IMG id=\"imgClock\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\"><B>Clock&nbsp;Status</B></TD>\r\n<TD
-        vAlign=\"top\" align=\"left\" width=\"*\">\r\n<DIV id=\"lblClock\">\r\nNo
-        information recorded</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
-        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblRelated',
-        'imgRelated');\">\r\n<IMG id=\"imgRelated\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
-        vAlign=\"top\" align=\"left\" width=\"20\"><B>Related Applications</B></TD>\r\n<TD
-        vAlign=\"top\" align=\"left\" width=\"*\">\r\n<DIV id=\"lblRelated\">\r\n\r\n
-        \     No applications related to this application.\r\n    </DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"*\">\r\n<DIV id=\"lblClock\">\r\n<img
+        src='../../common/baseimages/ball_green.gif'> Clock Running.<br><img src='../../common/baseimages/calendar1.gif'>
+        The clock was stopped for a total of <b>0</b> days.</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
-        onclick=\"ShowHide('lblCost', 'imgCost');\">\r\n<IMG id=\"imgCost\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        onclick=\"ShowHide('lblRelated', 'imgRelated');\">\r\n<IMG id=\"imgRelated\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Related Applications</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblRelated\">\r\n\r\n      No applications
+        related to this application.\r\n    </DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblCost',
+        'imgCost');\">\r\n<IMG id=\"imgCost\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\"><B>Cost</B></TD>\r\n<TD vAlign=\"top\"
         align=\"left\" width=\"*\">\r\n<DIV id=\"lblCost\">\r\nEstimated cost of development:
-        $0.00</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN
-        style=\"CURSOR: hand\" onclick=\"ShowHide('lblOfficer', 'imgOfficer');\">\r\n<IMG
-        id=\"imgOfficer\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        $25,000.00</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblOfficer',
+        'imgOfficer');\">\r\n<IMG id=\"imgOfficer\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\"><B>Officer</B></TD>\r\n<TD vAlign=\"top\"
         align=\"left\" width=\"*\">\r\n<DIV id=\"lblOfficer\">\r\nNo officer recorded</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
         onclick=\"ShowHide('lblDecision', 'imgDecision');\">\r\n<IMG id=\"imgDecision\"
         src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
         align=\"left\" width=\"20\"><B>Decision</B></TD>\r\n<TD vAlign=\"top\" align=\"left\"
-        width=\"*\">\r\n<DIV id=\"lblDecision\">\r\nNot yet determined</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        width=\"*\">\r\n<DIV id=\"lblDecision\">\r\nPending (12/06/2019)</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
         onclick=\"ShowHide('lbl91', 'img91');\">\r\n<IMG id=\"img91\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
         vAlign=\"top\" align=\"left\" width=\"20\"><B>Email</B></TD>\r\n<TD vAlign=\"top\"
         align=\"left\" width=\"*\">\r\n<DIV id=\"lbl91\">\r\n<a href=\"mailto:council@bellingen.nsw.gov.au?subject=Development
         Application Enquiry: 2019/DA-00074 (Development Application)\r\n\t\t&Body=\"
+        onfocus=\"this.blur()\"><u>Contact us about this application.</u></a></DIV>\r\n</TD></TR>\r\n</span>\r\n\t\t</table>\r\n\t\t</p>\r\n\t</div>\r\n\t<p><span
+        id=\"ctl03_lblLink\"><a href='javascript:expandCollapse(\"collapse\")'>close
+        all</a> | <a href='javascript:expandCollapse(\"expand\")'>open all</a>\r\n</span></p>\r\n\r\n</div>\r\n\r\n\r\n<div
+        class=\"ackn\">\r\n\t<a href=\"http://www.civica.com.au\" target=\"_blank\">&#169;
+        Civica Pty Ltd</a>\r\n</div><span id=\"ctl06_lbl\" class=\"ackn\"></span><br/>\r\n\r\n</div>\r\n\t\t\t<div
+        id=\"Filler\"></div>\r\n\t\t\t<script language='javascript'>\r\nfunction ShowHide(a,
+        b) {\r\nvar is_getElementById   = (document.getElementById) ? true : false;\r\nvar
+        agt=navigator.userAgent.toLowerCase();\r\nif ((agt.indexOf('mac')==-1||agt.indexOf('msie')==-1)
+        && is_getElementById){\r\nif (document.getElementById(b).src.substring(document.getElementById(b).src.length-8,document.getElementById(b).src.length)=='open.gif')
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/closed.gif';\r\ndocument.getElementById(a).style.display='none';}\r\nelse
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/open.gif';\r\ndocument.getElementById(a).style.display='';}}}\r\n</script>\r\n<script
+        language=\"JavaScript\">Wait.style.display = 'none';</script>\r\n<div id=\"divBackToTop\"
+        \ onClick=\"javascript:mt_pagetop()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/top.gif\"
+        width=\"18\" height=\"27\" border=\"0\" alt=\"Top of page\"></div><div id=\"divMoreOnPage\"
+        onClick=\"javascript:mt_pagedown()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/more.gif\"
+        width=\"22\" height=\"27\" border=\"0\" alt=\"More information on page\"></div>\r\n\r\n\t\t\t<div
+        id=\"Search\"></div>\r\n\t\t\t\r\n\t\t\t<div id=\"Help\" class=\"help\" style=\"position:absolute;display:'none';\"><input
+        type=\"image\" name=\"ctl04$CloseBtn\" id=\"ctl04_CloseBtn\" src=\"../../common/controlimages/box_key.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:4px;left:560px;cursor:hand;\"
+        />\r\n<h5>Help</h5><span class=\"ackn\"><a href=\"http://www.civica.com.au\"
+        target=\"_blank\">&#169; Civica Pty Ltd</a></span>\r\n\r\n</div>\r\n\t\t\t<input
+        type=\"image\" name=\"HelpBtn\" id=\"HelpBtn\" src=\"../../common/controlimages/box_faq.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:152;left:781px;cursor:hand;\"
+        />\r\n\t\t\t<input type=\"image\" name=\"PrintBtn\" id=\"PrintBtn\" src=\"../../common/controlimages/box_print.gif\"
+        alt=\"Print Page\" border=\"0\" style=\"position:absolute;top:152;left:766px;cursor:hand;\"
+        />\r\n\t\t</form>\r\n\t\t<script type=\"text/javascript\">\r\n\t\t\t<!--\r\n\t\t\tSET_DHTML(RESIZABLE,\"Help\"+TRANSPARENT);\r\n\t\t\t//-->\r\n\t\t</script>
+        \t\r\n\t</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?key=63761&page=wrapper
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
+      Host:
+      - infomaster.bellingen.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Length:
+      - '22000'
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.0
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Wed, 19 Jun 2019 05:36:01 GMT
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
+        target=\"_top\" />\r\n\t\t<link href=\"../../MasterView.css\" type=\"text/css\"
+        rel=\"stylesheet\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"icon\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"shortcut icon\" />\r\n\t\t<META HTTP-EQUIV=\"CACHE-CONTROL\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<META
+        HTTP-EQUIV=\"PRAGMA\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/masterView.js\"></script>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/dtree.js\"></script>\r\n\t</head>\r\n\t<body> <!--  onload=\"hide('Help')\">
+        -->\r\n\t\t<script type=\"text/javascript\" src=\"../../common/wz_dragdrop.js\"></script>\r\n\t\t<div
+        id=\"Wait\" style=\"display:none;z-index:5;left:10px;position:absolute;top:expression(document.body.clientHeight-30)\">Loading.
+        Please wait.....</div>\r\n\t\t<form name=\"frmMasterView\" method=\"post\"
+        action=\"default.aspx\" id=\"frmMasterView\" AUTOCOMPLETE=\"Off\">\r\n<input
+        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgJmD2QWAmYPZBYGAgEPDxYCHwEFKzIwMTkvREEtMDAwNzYgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQlkZAIDDw8WAh8BBbkoPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxEZXRhaWxzJywgJ2ltZ0RldGFpbHMnKTsiPg0KPElNRyBpZD0iaW1nRGV0YWlscyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RGV0YWlsczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGV0YWlscyI+DQo8dGFibGU+DQogIDx0cj4NCiAgICA8dGQ+DQogICAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBEd2VsbGluZzxiciAvPg0KICAgICAgICBTdWJtaXR0ZWQ6IDEyLzA2LzIwMTk8YnIgLz48L3RkPg0KICA8L3RyPg0KPC90YWJsZT4mbmJzcDtEZXRlcm1pbmF0aW9uIERlc2NyaXB0aW9uOiBCZWluZyBBc3Nlc3NlZC48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTGFuZCcsICdpbWdMYW5kJyk7Ij4NCjxJTUcgaWQ9ImltZ0xhbmQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkFkZHJlc3M8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibExhbmQiPg0KMTEgSXJvbmJhcmsgUEwgQkVMTElOR0VOIE5TVyAyNDU0DQo8YnIgLz48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTWFwJywgJ2ltZ01hcCcpOyI+DQo8SU1HIGlkPSJpbWdNYXAiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvY2xvc2VkLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+TWFwPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxNYXAiIHN0eWxlPSJESVNQTEFZOm5vbmUiPg0KPGlmcmFtZSBzcmM9Imh0dHA6Ly9pbmZvbWFzdGVyLmJlbGxpbmdlbi5uc3cuZ292LmF1L21hcHhzZXJ2ZXIvbWFwQ29udHJvbHMuYXNweCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzMCIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIG5hbWU9Im1hcENvbnRyb2xzIj48L2lmcmFtZT4NCjxpZnJhbWUgc3JjPSJodHRwOi8vaW5mb21hc3Rlci5iZWxsaW5nZW4ubnN3Lmdvdi5hdS9tYXB4c2VydmVyL21hcHguYXNweD9rZXlzPTE1MTgyJk1hcEtleXM9MTUxODImaG9zdD0iIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBjbGFzcz0iYm9yZGVyIiBzY3JvbGxpbmc9Im5vIiBmcmFtZWJvcmRlcj0iMCIgbmFtZT0ibWFwRnJhbWUiPjwvaWZyYW1lPjxicj48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsQXBwbGljYW50JywgJ2ltZ0FwcGxpY2FudCcpOyI+DQo8SU1HIGlkPSJpbWdBcHBsaWNhbnQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvY2xvc2VkLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+QXBwbGljYW50PC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxBcHBsaWNhbnQiIHN0eWxlPSJESVNQTEFZOm5vbmUiPg0KU2ltb24gQWFyb25zICZhbXA7IExpYW5hIEV2YW5zDQo8YnIgLz48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsU3RhdHVzJywgJ2ltZ1N0YXR1cycpOyI+DQo8SU1HIGlkPSJpbWdTdGF0dXMiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkV2ZW50czwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsU3RhdHVzIj4NCjx0YWJsZSB3aWR0aD0nOTglJyBjZWxscGFkZGluZz0nMScgY2VsbHNwYWNpbmc9JzAnPjx0ciBjbGFzcz0ndGFibGVBbHQnPjx0ZD5EZXNjcmlwdGlvbjwvdGQ+PHRkPlN0YXJ0IERhdGU8L3RkPjx0ZD5Db21wbGV0ZWQgRGF0ZTwvdGQ+PC90cj48dHI+PC90YWJsZT48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsQ2xvY2snLCAnaW1nQ2xvY2snKTsiPg0KPElNRyBpZD0iaW1nQ2xvY2siIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkNsb2NrJm5ic3A7U3RhdHVzPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxDbG9jayI+DQo8aW1nIHNyYz0nLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvYmFsbF9ncmVlbi5naWYnPiBDbG9jayBSdW5uaW5nLjxicj48aW1nIHNyYz0nLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvY2FsZW5kYXIxLmdpZic+IFRoZSBjbG9jayB3YXMgc3RvcHBlZCBmb3IgYSB0b3RhbCBvZiA8Yj4wPC9iPiBkYXlzLjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxSZWxhdGVkJywgJ2ltZ1JlbGF0ZWQnKTsiPg0KPElNRyBpZD0iaW1nUmVsYXRlZCIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+UmVsYXRlZCBBcHBsaWNhdGlvbnM8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibFJlbGF0ZWQiPg0KDQogICAgICBObyBhcHBsaWNhdGlvbnMgcmVsYXRlZCB0byB0aGlzIGFwcGxpY2F0aW9uLg0KICAgIDwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxDb3N0JywgJ2ltZ0Nvc3QnKTsiPg0KPElNRyBpZD0iaW1nQ29zdCIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+Q29zdDwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsQ29zdCI+DQpFc3RpbWF0ZWQgY29zdCBvZiBkZXZlbG9wbWVudDogJDIxNywwMDAuMDA8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsT2ZmaWNlcicsICdpbWdPZmZpY2VyJyk7Ij4NCjxJTUcgaWQ9ImltZ09mZmljZXIiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPk9mZmljZXI8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibE9mZmljZXIiPg0KTm8gb2ZmaWNlciByZWNvcmRlZDwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxEZWNpc2lvbicsICdpbWdEZWNpc2lvbicpOyI+DQo8SU1HIGlkPSJpbWdEZWNpc2lvbiIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RGVjaXNpb248L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibERlY2lzaW9uIj4NClBlbmRpbmcgKDE4LzA2LzIwMTkpPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibDkxJywgJ2ltZzkxJyk7Ij4NCjxJTUcgaWQ9ImltZzkxIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5FbWFpbDwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsOTEiPg0KPGEgaHJlZj0ibWFpbHRvOmNvdW5jaWxAYmVsbGluZ2VuLm5zdy5nb3YuYXU/c3ViamVjdD1EZXZlbG9wbWVudCBBcHBsaWNhdGlvbiBFbnF1aXJ5OiAyMDE5L0RBLTAwMDc2IChEZXZlbG9wbWVudCBBcHBsaWNhdGlvbikNCgkJJkJvZHk9IiBvbmZvY3VzPSJ0aGlzLmJsdXIoKSI+PHU+Q29udGFjdCB1cyBhYm91dCB0aGlzIGFwcGxpY2F0aW9uLjwvdT48L2E+PC9ESVY+DQo8L1REPjwvVFI+DQpkZAIFDw8WAh8BBXw8YSBocmVmPSdqYXZhc2NyaXB0OmV4cGFuZENvbGxhcHNlKCJjb2xsYXBzZSIpJz5jbG9zZSBhbGw8L2E+IHwgPGEgaHJlZj0namF2YXNjcmlwdDpleHBhbmRDb2xsYXBzZSgiZXhwYW5kIiknPm9wZW4gYWxsPC9hPg0KZGQCCQ8WAh8BBcUIPHNjcmlwdCBsYW5ndWFnZT0namF2YXNjcmlwdCc+DQpmdW5jdGlvbiBTaG93SGlkZShhLCBiKSB7DQp2YXIgaXNfZ2V0RWxlbWVudEJ5SWQgICA9IChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCkgPyB0cnVlIDogZmFsc2U7DQp2YXIgYWd0PW5hdmlnYXRvci51c2VyQWdlbnQudG9Mb3dlckNhc2UoKTsNCmlmICgoYWd0LmluZGV4T2YoJ21hYycpPT0tMXx8YWd0LmluZGV4T2YoJ21zaWUnKT09LTEpICYmIGlzX2dldEVsZW1lbnRCeUlkKXsNCmlmIChkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmMuc3Vic3RyaW5nKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5sZW5ndGgtOCxkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmMubGVuZ3RoKT09J29wZW4uZ2lmJykgew0KZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjPScuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9jbG9zZWQuZ2lmJzsNCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGEpLnN0eWxlLmRpc3BsYXk9J25vbmUnO30NCmVsc2Ugew0KZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjPScuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZic7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChhKS5zdHlsZS5kaXNwbGF5PScnO319fQ0KPC9zY3JpcHQ+DQo8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0Ij5XYWl0LnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7PC9zY3JpcHQ+DQo8ZGl2IGlkPSJkaXZCYWNrVG9Ub3AiICBvbkNsaWNrPSJqYXZhc2NyaXB0Om10X3BhZ2V0b3AoKSIgY2xhc3M9IkhpZGRlbk5hdiI+PGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9iYXNlaW1hZ2VzL3RvcC5naWYiIHdpZHRoPSIxOCIgaGVpZ2h0PSIyNyIgYm9yZGVyPSIwIiBhbHQ9IlRvcCBvZiBwYWdlIj48L2Rpdj48ZGl2IGlkPSJkaXZNb3JlT25QYWdlIiBvbkNsaWNrPSJqYXZhc2NyaXB0Om10X3BhZ2Vkb3duKCkiIGNsYXNzPSJIaWRkZW5OYXYiPjxpbWcgc3JjPSIuLi8uLi9jb21tb24vYmFzZWltYWdlcy9tb3JlLmdpZiIgd2lkdGg9IjIyIiBoZWlnaHQ9IjI3IiBib3JkZXI9IjAiIGFsdD0iTW9yZSBpbmZvcm1hdGlvbiBvbiBwYWdlIj48L2Rpdj4NCmQCDQ9kFgJmD2QWAgICDxYCHwEFczxoNT5IZWxwPC9oNT48c3BhbiBjbGFzcz0iYWNrbiI+PGEgaHJlZj0iaHR0cDovL3d3dy5jaXZpY2EuY29tLmF1IiB0YXJnZXQ9Il9ibGFuayI+JiMxNjk7IENpdmljYSBQdHkgTHRkPC9hPjwvc3Bhbj5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBQ5jdGwwNCRDbG9zZUJ0bgUHSGVscEJ0bgUIUHJpbnRCdG5sQDNKVmtfMEpIaEmt0nSNeey7hg==\"
+        />\r\n\r\n<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\" id=\"__VIEWSTATEGENERATOR\"
+        value=\"8C83F922\" />\r\n\t\t\t<div id=\"Banner\" class=\"Banner\">\r\n\r\n\r\n<table
+        cellspacing='0' cellpadding='0' width='100%'>\r\n<tr>\r\n<td colspan='2' height='15'
+        class='fill'><font font-family='Arial' color='white'>Bellingen Shire Council</font></td>\r\n</tr>\r\n<tr>\r\n<td
+        style=\"background-color:#99CCFF;\"><img src='../../images/logo1.png'></td><td
+        style=\"background-color:#99CCFF;\" align='right'><img src='../../images/banner1.jpg'></td>\r\n</tr>\r\n<tr>\r\n<td
+        \ class='fill' colspan='2' height='15'>&nbsp;</td>\r\n</tr>\r\n</table></div><br
+        />\r\n\t\t\t<div id=\"LeftPane\">\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n<div id=\"ctl01_all\">\r\n\r\n\r\n<b>Search</b>\r\n<span id=\"ctl01_lblLinksAll\"><a
+        href='default.aspx?page=search' target='_self' class='current'>All Applications</a><br/><a
+        href='default.aspx?page=searchDA' target='_self'>Development&nbsp;Applications</a><br/><a
+        href='default.aspx?page=searchCC' target='_self'>Construction&nbsp;Certificates</a><br/><a
+        href='default.aspx?page=searchCDC' target='_self'>Complying Development</a><br/><a
+        href='default.aspx?page=searchMD' target='_self'>Modification&nbsp;Applications</a><br
+        /></span>\r\n<br>\r\n\r\n<!-- <span class=\"line\"></span> -->\r\n<b>All Submitted</b>\r\n<a
+        href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=F\" target=\"_self\">&nbsp;&nbsp;&nbsp;This
+        Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        --><br/>\r\n\r\n<b>All Determined</b>\r\n<a href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        -->\r\n</div>\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<br/><br/>\r\n\r\n<div align=\"center\">\r\n\t<span id=\"ctl02_lblInfo\"></span>\r\n\t<!--
+        <img src=\"../../images/bn_logo.gif\" alt=\"MasterView\"/> -->\r\n</div>\r\n\r\n\r\n\r\n<br/><br/></div>\r\n\t\t\t<div
+        id=\"RightPane\"><div id=\"ctl03_pnlApplicationWrapper\" class=\"border\">\r\n\t\r\n\t<h5>Application
+        Details</h5>\r\n\t<h4>Application: <span id=\"ctl03_lblHead\">2019/DA-00076
+        (Development Application)\r\n\t\t</span></h4>\r\n\t<div class=\"list\">\r\n\t\t<p>\r\n\t\t<table
+        class=\"list\" cellSpacing=\"0\" cellPadding=\"1\" width=\"98%\" border=\"0\">\r\n\t\t\t<span
+        id=\"ctl03_lblDetails\"><TR>\r\n<TD vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN
+        style=\"CURSOR: hand\" onclick=\"ShowHide('lblDetails', 'imgDetails');\">\r\n<IMG
+        id=\"imgDetails\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Details</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblDetails\">\r\n<table>\r\n  <tr>\r\n
+        \   <td>\r\n        Description: Construction of a Dwelling<br />\r\n        Submitted:
+        12/06/2019<br /></td>\r\n  </tr>\r\n</table>&nbsp;Determination Description:
+        Being Assessed.</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblLand',
+        'imgLand');\">\r\n<IMG id=\"imgLand\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Address</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblLand\">\r\n11 Ironbark PL BELLINGEN
+        NSW 2454\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblMap',
+        'imgMap');\">\r\n<IMG id=\"imgMap\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Map</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblMap\" style=\"DISPLAY:none\">\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapControls.aspx\"
+        width=\"500\" height=\"30\" scrolling=\"no\" frameborder=\"0\" name=\"mapControls\"></iframe>\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapx.aspx?keys=15182&MapKeys=15182&host=\"
+        width=\"500\" height=\"500\" class=\"border\" scrolling=\"no\" frameborder=\"0\"
+        name=\"mapFrame\"></iframe><br></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblApplicant',
+        'imgApplicant');\">\r\n<IMG id=\"imgApplicant\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Applicant</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblApplicant\" style=\"DISPLAY:none\">\r\nSimon
+        Aarons &amp; Liana Evans\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblStatus',
+        'imgStatus');\">\r\n<IMG id=\"imgStatus\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Events</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblStatus\">\r\n<table width='98%'
+        cellpadding='1' cellspacing='0'><tr class='tableAlt'><td>Description</td><td>Start
+        Date</td><td>Completed Date</td></tr><tr></table></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblClock', 'imgClock');\">\r\n<IMG id=\"imgClock\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Clock&nbsp;Status</B></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"*\">\r\n<DIV id=\"lblClock\">\r\n<img
+        src='../../common/baseimages/ball_green.gif'> Clock Running.<br><img src='../../common/baseimages/calendar1.gif'>
+        The clock was stopped for a total of <b>0</b> days.</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblRelated', 'imgRelated');\">\r\n<IMG id=\"imgRelated\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Related Applications</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblRelated\">\r\n\r\n      No applications
+        related to this application.\r\n    </DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblCost',
+        'imgCost');\">\r\n<IMG id=\"imgCost\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Cost</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblCost\">\r\nEstimated cost of development:
+        $217,000.00</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblOfficer',
+        'imgOfficer');\">\r\n<IMG id=\"imgOfficer\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Officer</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblOfficer\">\r\nNo officer recorded</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblDecision', 'imgDecision');\">\r\n<IMG id=\"imgDecision\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Decision</B></TD>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"*\">\r\n<DIV id=\"lblDecision\">\r\nPending (18/06/2019)</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lbl91', 'img91');\">\r\n<IMG id=\"img91\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Email</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lbl91\">\r\n<a href=\"mailto:council@bellingen.nsw.gov.au?subject=Development
+        Application Enquiry: 2019/DA-00076 (Development Application)\r\n\t\t&Body=\"
+        onfocus=\"this.blur()\"><u>Contact us about this application.</u></a></DIV>\r\n</TD></TR>\r\n</span>\r\n\t\t</table>\r\n\t\t</p>\r\n\t</div>\r\n\t<p><span
+        id=\"ctl03_lblLink\"><a href='javascript:expandCollapse(\"collapse\")'>close
+        all</a> | <a href='javascript:expandCollapse(\"expand\")'>open all</a>\r\n</span></p>\r\n\r\n</div>\r\n\r\n\r\n<div
+        class=\"ackn\">\r\n\t<a href=\"http://www.civica.com.au\" target=\"_blank\">&#169;
+        Civica Pty Ltd</a>\r\n</div><span id=\"ctl06_lbl\" class=\"ackn\"></span><br/>\r\n\r\n</div>\r\n\t\t\t<div
+        id=\"Filler\"></div>\r\n\t\t\t<script language='javascript'>\r\nfunction ShowHide(a,
+        b) {\r\nvar is_getElementById   = (document.getElementById) ? true : false;\r\nvar
+        agt=navigator.userAgent.toLowerCase();\r\nif ((agt.indexOf('mac')==-1||agt.indexOf('msie')==-1)
+        && is_getElementById){\r\nif (document.getElementById(b).src.substring(document.getElementById(b).src.length-8,document.getElementById(b).src.length)=='open.gif')
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/closed.gif';\r\ndocument.getElementById(a).style.display='none';}\r\nelse
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/open.gif';\r\ndocument.getElementById(a).style.display='';}}}\r\n</script>\r\n<script
+        language=\"JavaScript\">Wait.style.display = 'none';</script>\r\n<div id=\"divBackToTop\"
+        \ onClick=\"javascript:mt_pagetop()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/top.gif\"
+        width=\"18\" height=\"27\" border=\"0\" alt=\"Top of page\"></div><div id=\"divMoreOnPage\"
+        onClick=\"javascript:mt_pagedown()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/more.gif\"
+        width=\"22\" height=\"27\" border=\"0\" alt=\"More information on page\"></div>\r\n\r\n\t\t\t<div
+        id=\"Search\"></div>\r\n\t\t\t\r\n\t\t\t<div id=\"Help\" class=\"help\" style=\"position:absolute;display:'none';\"><input
+        type=\"image\" name=\"ctl04$CloseBtn\" id=\"ctl04_CloseBtn\" src=\"../../common/controlimages/box_key.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:4px;left:560px;cursor:hand;\"
+        />\r\n<h5>Help</h5><span class=\"ackn\"><a href=\"http://www.civica.com.au\"
+        target=\"_blank\">&#169; Civica Pty Ltd</a></span>\r\n\r\n</div>\r\n\t\t\t<input
+        type=\"image\" name=\"HelpBtn\" id=\"HelpBtn\" src=\"../../common/controlimages/box_faq.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:152;left:781px;cursor:hand;\"
+        />\r\n\t\t\t<input type=\"image\" name=\"PrintBtn\" id=\"PrintBtn\" src=\"../../common/controlimages/box_print.gif\"
+        alt=\"Print Page\" border=\"0\" style=\"position:absolute;top:152;left:766px;cursor:hand;\"
+        />\r\n\t\t</form>\r\n\t\t<script type=\"text/javascript\">\r\n\t\t\t<!--\r\n\t\t\tSET_DHTML(RESIZABLE,\"Help\"+TRANSPARENT);\r\n\t\t\t//-->\r\n\t\t</script>
+        \t\r\n\t</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?key=63770&page=wrapper
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
+      Host:
+      - infomaster.bellingen.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Length:
+      - '21953'
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.0
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Wed, 19 Jun 2019 05:36:05 GMT
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
+        target=\"_top\" />\r\n\t\t<link href=\"../../MasterView.css\" type=\"text/css\"
+        rel=\"stylesheet\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"icon\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"shortcut icon\" />\r\n\t\t<META HTTP-EQUIV=\"CACHE-CONTROL\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<META
+        HTTP-EQUIV=\"PRAGMA\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/masterView.js\"></script>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/dtree.js\"></script>\r\n\t</head>\r\n\t<body> <!--  onload=\"hide('Help')\">
+        -->\r\n\t\t<script type=\"text/javascript\" src=\"../../common/wz_dragdrop.js\"></script>\r\n\t\t<div
+        id=\"Wait\" style=\"display:none;z-index:5;left:10px;position:absolute;top:expression(document.body.clientHeight-30)\">Loading.
+        Please wait.....</div>\r\n\t\t<form name=\"frmMasterView\" method=\"post\"
+        action=\"default.aspx\" id=\"frmMasterView\" AUTOCOMPLETE=\"Off\">\r\n<input
+        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgJmD2QWAmYPZBYGAgEPDxYCHwEFKzIwMTkvREEtMDAwNzcgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQlkZAIDDw8WAh8BBaYoPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxEZXRhaWxzJywgJ2ltZ0RldGFpbHMnKTsiPg0KPElNRyBpZD0iaW1nRGV0YWlscyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RGV0YWlsczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGV0YWlscyI+DQo8dGFibGU+DQogIDx0cj4NCiAgICA8dGQ+DQogICAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBEd2VsbGluZzxiciAvPg0KICAgICAgICBTdWJtaXR0ZWQ6IDE3LzA2LzIwMTk8YnIgLz48L3RkPg0KICA8L3RyPg0KPC90YWJsZT4mbmJzcDtEZXRlcm1pbmF0aW9uIERlc2NyaXB0aW9uOiBCZWluZyBBc3Nlc3NlZC48L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTGFuZCcsICdpbWdMYW5kJyk7Ij4NCjxJTUcgaWQ9ImltZ0xhbmQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkFkZHJlc3M8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibExhbmQiPg0KMjggU2NvdGNobWFuIFJEIEJFTExJTkdFTiBOU1cgMjQ1NA0KPGJyIC8+PC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibE1hcCcsICdpbWdNYXAnKTsiPg0KPElNRyBpZD0iaW1nTWFwIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPk1hcDwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsTWFwIiBzdHlsZT0iRElTUExBWTpub25lIj4NCjxpZnJhbWUgc3JjPSJodHRwOi8vaW5mb21hc3Rlci5iZWxsaW5nZW4ubnN3Lmdvdi5hdS9tYXB4c2VydmVyL21hcENvbnRyb2xzLmFzcHgiIHdpZHRoPSI1MDAiIGhlaWdodD0iMzAiIHNjcm9sbGluZz0ibm8iIGZyYW1lYm9yZGVyPSIwIiBuYW1lPSJtYXBDb250cm9scyI+PC9pZnJhbWU+DQo8aWZyYW1lIHNyYz0iaHR0cDovL2luZm9tYXN0ZXIuYmVsbGluZ2VuLm5zdy5nb3YuYXUvbWFweHNlcnZlci9tYXB4LmFzcHg/a2V5cz0xNTMyNCZNYXBLZXlzPTE1MzI0Jmhvc3Q9IiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgY2xhc3M9ImJvcmRlciIgc2Nyb2xsaW5nPSJubyIgZnJhbWVib3JkZXI9IjAiIG5hbWU9Im1hcEZyYW1lIj48L2lmcmFtZT48YnI+PC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibEFwcGxpY2FudCcsICdpbWdBcHBsaWNhbnQnKTsiPg0KPElNRyBpZD0iaW1nQXBwbGljYW50IiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkFwcGxpY2FudDwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsQXBwbGljYW50IiBzdHlsZT0iRElTUExBWTpub25lIj4NCkJvYiBIYXJyaXMNCjxiciAvPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxTdGF0dXMnLCAnaW1nU3RhdHVzJyk7Ij4NCjxJTUcgaWQ9ImltZ1N0YXR1cyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RXZlbnRzPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxTdGF0dXMiPg0KPHRhYmxlIHdpZHRoPSc5OCUnIGNlbGxwYWRkaW5nPScxJyBjZWxsc3BhY2luZz0nMCc+PHRyIGNsYXNzPSd0YWJsZUFsdCc+PHRkPkRlc2NyaXB0aW9uPC90ZD48dGQ+U3RhcnQgRGF0ZTwvdGQ+PHRkPkNvbXBsZXRlZCBEYXRlPC90ZD48L3RyPjx0cj48L3RhYmxlPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxDbG9jaycsICdpbWdDbG9jaycpOyI+DQo8SU1HIGlkPSJpbWdDbG9jayIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+Q2xvY2smbmJzcDtTdGF0dXM8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibENsb2NrIj4NCjxpbWcgc3JjPScuLi8uLi9jb21tb24vYmFzZWltYWdlcy9iYWxsX2dyZWVuLmdpZic+IENsb2NrIFJ1bm5pbmcuPGJyPjxpbWcgc3JjPScuLi8uLi9jb21tb24vYmFzZWltYWdlcy9jYWxlbmRhcjEuZ2lmJz4gVGhlIGNsb2NrIHdhcyBzdG9wcGVkIGZvciBhIHRvdGFsIG9mIDxiPjA8L2I+IGRheXMuPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibFJlbGF0ZWQnLCAnaW1nUmVsYXRlZCcpOyI+DQo8SU1HIGlkPSJpbWdSZWxhdGVkIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5SZWxhdGVkIEFwcGxpY2F0aW9uczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsUmVsYXRlZCI+DQoNCiAgICAgIE5vIGFwcGxpY2F0aW9ucyByZWxhdGVkIHRvIHRoaXMgYXBwbGljYXRpb24uDQogICAgPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibENvc3QnLCAnaW1nQ29zdCcpOyI+DQo8SU1HIGlkPSJpbWdDb3N0IiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5Db3N0PC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxDb3N0Ij4NCkVzdGltYXRlZCBjb3N0IG9mIGRldmVsb3BtZW50OiAkMjUwLDAwMC4wMDwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxPZmZpY2VyJywgJ2ltZ09mZmljZXInKTsiPg0KPElNRyBpZD0iaW1nT2ZmaWNlciIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+T2ZmaWNlcjwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsT2ZmaWNlciI+DQpObyBvZmZpY2VyIHJlY29yZGVkPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibERlY2lzaW9uJywgJ2ltZ0RlY2lzaW9uJyk7Ij4NCjxJTUcgaWQ9ImltZ0RlY2lzaW9uIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5EZWNpc2lvbjwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGVjaXNpb24iPg0KUGVuZGluZyAoMTkvMDYvMjAxOSk8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsOTEnLCAnaW1nOTEnKTsiPg0KPElNRyBpZD0iaW1nOTEiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkVtYWlsPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmw5MSI+DQo8YSBocmVmPSJtYWlsdG86Y291bmNpbEBiZWxsaW5nZW4ubnN3Lmdvdi5hdT9zdWJqZWN0PURldmVsb3BtZW50IEFwcGxpY2F0aW9uIEVucXVpcnk6IDIwMTkvREEtMDAwNzcgKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQkmQm9keT0iIG9uZm9jdXM9InRoaXMuYmx1cigpIj48dT5Db250YWN0IHVzIGFib3V0IHRoaXMgYXBwbGljYXRpb24uPC91PjwvYT48L0RJVj4NCjwvVEQ+PC9UUj4NCmRkAgUPDxYCHwEFfDxhIGhyZWY9J2phdmFzY3JpcHQ6ZXhwYW5kQ29sbGFwc2UoImNvbGxhcHNlIiknPmNsb3NlIGFsbDwvYT4gfCA8YSBocmVmPSdqYXZhc2NyaXB0OmV4cGFuZENvbGxhcHNlKCJleHBhbmQiKSc+b3BlbiBhbGw8L2E+DQpkZAIJDxYCHwEFxQg8c2NyaXB0IGxhbmd1YWdlPSdqYXZhc2NyaXB0Jz4NCmZ1bmN0aW9uIFNob3dIaWRlKGEsIGIpIHsNCnZhciBpc19nZXRFbGVtZW50QnlJZCAgID0gKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKSA/IHRydWUgOiBmYWxzZTsNCnZhciBhZ3Q9bmF2aWdhdG9yLnVzZXJBZ2VudC50b0xvd2VyQ2FzZSgpOw0KaWYgKChhZ3QuaW5kZXhPZignbWFjJyk9PS0xfHxhZ3QuaW5kZXhPZignbXNpZScpPT0tMSkgJiYgaXNfZ2V0RWxlbWVudEJ5SWQpew0KaWYgKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5zdWJzdHJpbmcoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjLmxlbmd0aC04LGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5sZW5ndGgpPT0nb3Blbi5naWYnKSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYnOw0KZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYSkuc3R5bGUuZGlzcGxheT0nbm9uZSc7fQ0KZWxzZSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmJzsNCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGEpLnN0eWxlLmRpc3BsYXk9Jyc7fX19DQo8L3NjcmlwdD4NCjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiPldhaXQuc3R5bGUuZGlzcGxheSA9ICdub25lJzs8L3NjcmlwdD4NCjxkaXYgaWQ9ImRpdkJhY2tUb1RvcCIgIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZXRvcCgpIiBjbGFzcz0iSGlkZGVuTmF2Ij48aW1nIHNyYz0iLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvdG9wLmdpZiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjI3IiBib3JkZXI9IjAiIGFsdD0iVG9wIG9mIHBhZ2UiPjwvZGl2PjxkaXYgaWQ9ImRpdk1vcmVPblBhZ2UiIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZWRvd24oKSIgY2xhc3M9IkhpZGRlbk5hdiI+PGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9iYXNlaW1hZ2VzL21vcmUuZ2lmIiB3aWR0aD0iMjIiIGhlaWdodD0iMjciIGJvcmRlcj0iMCIgYWx0PSJNb3JlIGluZm9ybWF0aW9uIG9uIHBhZ2UiPjwvZGl2Pg0KZAIND2QWAmYPZBYCAgIPFgIfAQVzPGg1PkhlbHA8L2g1PjxzcGFuIGNsYXNzPSJhY2tuIj48YSBocmVmPSJodHRwOi8vd3d3LmNpdmljYS5jb20uYXUiIHRhcmdldD0iX2JsYW5rIj4mIzE2OTsgQ2l2aWNhIFB0eSBMdGQ8L2E+PC9zcGFuPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFDmN0bDA0JENsb3NlQnRuBQdIZWxwQnRuBQhQcmludEJ0bsq9I2X91pY4hdlyLdro8VaT/0Or\"
+        />\r\n\r\n<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\" id=\"__VIEWSTATEGENERATOR\"
+        value=\"8C83F922\" />\r\n\t\t\t<div id=\"Banner\" class=\"Banner\">\r\n\r\n\r\n<table
+        cellspacing='0' cellpadding='0' width='100%'>\r\n<tr>\r\n<td colspan='2' height='15'
+        class='fill'><font font-family='Arial' color='white'>Bellingen Shire Council</font></td>\r\n</tr>\r\n<tr>\r\n<td
+        style=\"background-color:#99CCFF;\"><img src='../../images/logo1.png'></td><td
+        style=\"background-color:#99CCFF;\" align='right'><img src='../../images/banner1.jpg'></td>\r\n</tr>\r\n<tr>\r\n<td
+        \ class='fill' colspan='2' height='15'>&nbsp;</td>\r\n</tr>\r\n</table></div><br
+        />\r\n\t\t\t<div id=\"LeftPane\">\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n<div id=\"ctl01_all\">\r\n\r\n\r\n<b>Search</b>\r\n<span id=\"ctl01_lblLinksAll\"><a
+        href='default.aspx?page=search' target='_self' class='current'>All Applications</a><br/><a
+        href='default.aspx?page=searchDA' target='_self'>Development&nbsp;Applications</a><br/><a
+        href='default.aspx?page=searchCC' target='_self'>Construction&nbsp;Certificates</a><br/><a
+        href='default.aspx?page=searchCDC' target='_self'>Complying Development</a><br/><a
+        href='default.aspx?page=searchMD' target='_self'>Modification&nbsp;Applications</a><br
+        /></span>\r\n<br>\r\n\r\n<!-- <span class=\"line\"></span> -->\r\n<b>All Submitted</b>\r\n<a
+        href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=F\" target=\"_self\">&nbsp;&nbsp;&nbsp;This
+        Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        --><br/>\r\n\r\n<b>All Determined</b>\r\n<a href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        -->\r\n</div>\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<br/><br/>\r\n\r\n<div align=\"center\">\r\n\t<span id=\"ctl02_lblInfo\"></span>\r\n\t<!--
+        <img src=\"../../images/bn_logo.gif\" alt=\"MasterView\"/> -->\r\n</div>\r\n\r\n\r\n\r\n<br/><br/></div>\r\n\t\t\t<div
+        id=\"RightPane\"><div id=\"ctl03_pnlApplicationWrapper\" class=\"border\">\r\n\t\r\n\t<h5>Application
+        Details</h5>\r\n\t<h4>Application: <span id=\"ctl03_lblHead\">2019/DA-00077
+        (Development Application)\r\n\t\t</span></h4>\r\n\t<div class=\"list\">\r\n\t\t<p>\r\n\t\t<table
+        class=\"list\" cellSpacing=\"0\" cellPadding=\"1\" width=\"98%\" border=\"0\">\r\n\t\t\t<span
+        id=\"ctl03_lblDetails\"><TR>\r\n<TD vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN
+        style=\"CURSOR: hand\" onclick=\"ShowHide('lblDetails', 'imgDetails');\">\r\n<IMG
+        id=\"imgDetails\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Details</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblDetails\">\r\n<table>\r\n  <tr>\r\n
+        \   <td>\r\n        Description: Construction of a Dwelling<br />\r\n        Submitted:
+        17/06/2019<br /></td>\r\n  </tr>\r\n</table>&nbsp;Determination Description:
+        Being Assessed.</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblLand',
+        'imgLand');\">\r\n<IMG id=\"imgLand\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Address</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblLand\">\r\n28 Scotchman RD BELLINGEN
+        NSW 2454\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblMap',
+        'imgMap');\">\r\n<IMG id=\"imgMap\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Map</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblMap\" style=\"DISPLAY:none\">\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapControls.aspx\"
+        width=\"500\" height=\"30\" scrolling=\"no\" frameborder=\"0\" name=\"mapControls\"></iframe>\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapx.aspx?keys=15324&MapKeys=15324&host=\"
+        width=\"500\" height=\"500\" class=\"border\" scrolling=\"no\" frameborder=\"0\"
+        name=\"mapFrame\"></iframe><br></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblApplicant',
+        'imgApplicant');\">\r\n<IMG id=\"imgApplicant\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Applicant</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblApplicant\" style=\"DISPLAY:none\">\r\nBob
+        Harris\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblStatus',
+        'imgStatus');\">\r\n<IMG id=\"imgStatus\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Events</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblStatus\">\r\n<table width='98%'
+        cellpadding='1' cellspacing='0'><tr class='tableAlt'><td>Description</td><td>Start
+        Date</td><td>Completed Date</td></tr><tr></table></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblClock', 'imgClock');\">\r\n<IMG id=\"imgClock\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Clock&nbsp;Status</B></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"*\">\r\n<DIV id=\"lblClock\">\r\n<img
+        src='../../common/baseimages/ball_green.gif'> Clock Running.<br><img src='../../common/baseimages/calendar1.gif'>
+        The clock was stopped for a total of <b>0</b> days.</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblRelated', 'imgRelated');\">\r\n<IMG id=\"imgRelated\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Related Applications</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblRelated\">\r\n\r\n      No applications
+        related to this application.\r\n    </DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblCost',
+        'imgCost');\">\r\n<IMG id=\"imgCost\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Cost</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblCost\">\r\nEstimated cost of development:
+        $250,000.00</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblOfficer',
+        'imgOfficer');\">\r\n<IMG id=\"imgOfficer\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Officer</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblOfficer\">\r\nNo officer recorded</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblDecision', 'imgDecision');\">\r\n<IMG id=\"imgDecision\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Decision</B></TD>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"*\">\r\n<DIV id=\"lblDecision\">\r\nPending (19/06/2019)</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lbl91', 'img91');\">\r\n<IMG id=\"img91\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Email</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lbl91\">\r\n<a href=\"mailto:council@bellingen.nsw.gov.au?subject=Development
+        Application Enquiry: 2019/DA-00077 (Development Application)\r\n\t\t&Body=\"
+        onfocus=\"this.blur()\"><u>Contact us about this application.</u></a></DIV>\r\n</TD></TR>\r\n</span>\r\n\t\t</table>\r\n\t\t</p>\r\n\t</div>\r\n\t<p><span
+        id=\"ctl03_lblLink\"><a href='javascript:expandCollapse(\"collapse\")'>close
+        all</a> | <a href='javascript:expandCollapse(\"expand\")'>open all</a>\r\n</span></p>\r\n\r\n</div>\r\n\r\n\r\n<div
+        class=\"ackn\">\r\n\t<a href=\"http://www.civica.com.au\" target=\"_blank\">&#169;
+        Civica Pty Ltd</a>\r\n</div><span id=\"ctl06_lbl\" class=\"ackn\"></span><br/>\r\n\r\n</div>\r\n\t\t\t<div
+        id=\"Filler\"></div>\r\n\t\t\t<script language='javascript'>\r\nfunction ShowHide(a,
+        b) {\r\nvar is_getElementById   = (document.getElementById) ? true : false;\r\nvar
+        agt=navigator.userAgent.toLowerCase();\r\nif ((agt.indexOf('mac')==-1||agt.indexOf('msie')==-1)
+        && is_getElementById){\r\nif (document.getElementById(b).src.substring(document.getElementById(b).src.length-8,document.getElementById(b).src.length)=='open.gif')
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/closed.gif';\r\ndocument.getElementById(a).style.display='none';}\r\nelse
+        {\r\ndocument.getElementById(b).src='../../common/controlimages/open.gif';\r\ndocument.getElementById(a).style.display='';}}}\r\n</script>\r\n<script
+        language=\"JavaScript\">Wait.style.display = 'none';</script>\r\n<div id=\"divBackToTop\"
+        \ onClick=\"javascript:mt_pagetop()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/top.gif\"
+        width=\"18\" height=\"27\" border=\"0\" alt=\"Top of page\"></div><div id=\"divMoreOnPage\"
+        onClick=\"javascript:mt_pagedown()\" class=\"HiddenNav\"><img src=\"../../common/baseimages/more.gif\"
+        width=\"22\" height=\"27\" border=\"0\" alt=\"More information on page\"></div>\r\n\r\n\t\t\t<div
+        id=\"Search\"></div>\r\n\t\t\t\r\n\t\t\t<div id=\"Help\" class=\"help\" style=\"position:absolute;display:'none';\"><input
+        type=\"image\" name=\"ctl04$CloseBtn\" id=\"ctl04_CloseBtn\" src=\"../../common/controlimages/box_key.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:4px;left:560px;cursor:hand;\"
+        />\r\n<h5>Help</h5><span class=\"ackn\"><a href=\"http://www.civica.com.au\"
+        target=\"_blank\">&#169; Civica Pty Ltd</a></span>\r\n\r\n</div>\r\n\t\t\t<input
+        type=\"image\" name=\"HelpBtn\" id=\"HelpBtn\" src=\"../../common/controlimages/box_faq.gif\"
+        alt=\"Help\" border=\"0\" style=\"position:absolute;top:152;left:781px;cursor:hand;\"
+        />\r\n\t\t\t<input type=\"image\" name=\"PrintBtn\" id=\"PrintBtn\" src=\"../../common/controlimages/box_print.gif\"
+        alt=\"Print Page\" border=\"0\" style=\"position:absolute;top:152;left:766px;cursor:hand;\"
+        />\r\n\t\t</form>\r\n\t\t<script type=\"text/javascript\">\r\n\t\t\t<!--\r\n\t\t\tSET_DHTML(RESIZABLE,\"Help\"+TRANSPARENT);\r\n\t\t\t//-->\r\n\t\t</script>
+        \t\r\n\t</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?key=63773&page=wrapper
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=jbsxzp45wp2tta45jn3lhkn4
+      Host:
+      - infomaster.bellingen.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Length:
+      - '22002'
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.0
+      X-Aspnet-Version:
+      - 2.0.50727
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Wed, 19 Jun 2019 05:36:08 GMT
+    body:
+      encoding: UTF-8
+      string: "\r\n\r\n\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>MasterView</title>\r\n\t\t<base
+        target=\"_top\" />\r\n\t\t<link href=\"../../MasterView.css\" type=\"text/css\"
+        rel=\"stylesheet\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"icon\" />\r\n\t\t<link href=\"../../favicon.ico\" type=\"image/x-icon\"
+        rel=\"shortcut icon\" />\r\n\t\t<META HTTP-EQUIV=\"CACHE-CONTROL\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<META
+        HTTP-EQUIV=\"PRAGMA\" CONTENT=\"NO-CACHE\"/>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/masterView.js\"></script>\r\n\t\t<script language=\"javascript\"
+        src=\"../../common/dtree.js\"></script>\r\n\t</head>\r\n\t<body> <!--  onload=\"hide('Help')\">
+        -->\r\n\t\t<script type=\"text/javascript\" src=\"../../common/wz_dragdrop.js\"></script>\r\n\t\t<div
+        id=\"Wait\" style=\"display:none;z-index:5;left:10px;position:absolute;top:expression(document.body.clientHeight-30)\">Loading.
+        Please wait.....</div>\r\n\t\t<form name=\"frmMasterView\" method=\"post\"
+        action=\"default.aspx\" id=\"frmMasterView\" AUTOCOMPLETE=\"Off\">\r\n<input
+        type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUKMTIxNTExNjQ1Mg9kFgICAQ9kFggCAw9kFgJmD2QWBAILDxYCHgdWaXNpYmxlZxYCAgEPDxYCHgRUZXh0Bb8DPGEgaHJlZj0nZGVmYXVsdC5hc3B4P3BhZ2U9c2VhcmNoJyB0YXJnZXQ9J19zZWxmJyBjbGFzcz0nY3VycmVudCc+QWxsIEFwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaERBJyB0YXJnZXQ9J19zZWxmJz5EZXZlbG9wbWVudCZuYnNwO0FwcGxpY2F0aW9uczwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaENDJyB0YXJnZXQ9J19zZWxmJz5Db25zdHJ1Y3Rpb24mbmJzcDtDZXJ0aWZpY2F0ZXM8L2E+PGJyLz48YSBocmVmPSdkZWZhdWx0LmFzcHg/cGFnZT1zZWFyY2hDREMnIHRhcmdldD0nX3NlbGYnPkNvbXBseWluZyBEZXZlbG9wbWVudDwvYT48YnIvPjxhIGhyZWY9J2RlZmF1bHQuYXNweD9wYWdlPXNlYXJjaE1EJyB0YXJnZXQ9J19zZWxmJz5Nb2RpZmljYXRpb24mbmJzcDtBcHBsaWNhdGlvbnM8L2E+PGJyIC8+ZGQCDQ8WAh8BZWQCBQ9kFgJmD2QWAmYPZBYGAgEPDxYCHwEFKzIwMTkvREEtMDAwNzggKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQlkZAIDDw8WAh8BBbsoPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxEZXRhaWxzJywgJ2ltZ0RldGFpbHMnKTsiPg0KPElNRyBpZD0iaW1nRGV0YWlscyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RGV0YWlsczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGV0YWlscyI+DQo8dGFibGU+DQogIDx0cj4NCiAgICA8dGQ+DQogICAgICAgIERlc2NyaXB0aW9uOiBDb25zdHJ1Y3Rpb24gb2YgYSBTZWNvbmRhcnkgZHdlbGxpbmc8YnIgLz4NCiAgICAgICAgU3VibWl0dGVkOiAxOC8wNi8yMDE5PGJyIC8+PC90ZD4NCiAgPC90cj4NCjwvdGFibGU+Jm5ic3A7RGV0ZXJtaW5hdGlvbiBEZXNjcmlwdGlvbjogQmVpbmcgQXNzZXNzZWQ8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsTGFuZCcsICdpbWdMYW5kJyk7Ij4NCjxJTUcgaWQ9ImltZ0xhbmQiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkFkZHJlc3M8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibExhbmQiPg0KMTUxIE1vdW50IFNUIEZFUk5NT1VOVCBOU1cgMjQ1NA0KPGJyIC8+PC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibE1hcCcsICdpbWdNYXAnKTsiPg0KPElNRyBpZD0iaW1nTWFwIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPk1hcDwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsTWFwIiBzdHlsZT0iRElTUExBWTpub25lIj4NCjxpZnJhbWUgc3JjPSJodHRwOi8vaW5mb21hc3Rlci5iZWxsaW5nZW4ubnN3Lmdvdi5hdS9tYXB4c2VydmVyL21hcENvbnRyb2xzLmFzcHgiIHdpZHRoPSI1MDAiIGhlaWdodD0iMzAiIHNjcm9sbGluZz0ibm8iIGZyYW1lYm9yZGVyPSIwIiBuYW1lPSJtYXBDb250cm9scyI+PC9pZnJhbWU+DQo8aWZyYW1lIHNyYz0iaHR0cDovL2luZm9tYXN0ZXIuYmVsbGluZ2VuLm5zdy5nb3YuYXUvbWFweHNlcnZlci9tYXB4LmFzcHg/a2V5cz02NTAyJk1hcEtleXM9NjUwMiZob3N0PSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSI1MDAiIGNsYXNzPSJib3JkZXIiIHNjcm9sbGluZz0ibm8iIGZyYW1lYm9yZGVyPSIwIiBuYW1lPSJtYXBGcmFtZSI+PC9pZnJhbWU+PGJyPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxBcHBsaWNhbnQnLCAnaW1nQXBwbGljYW50Jyk7Ij4NCjxJTUcgaWQ9ImltZ0FwcGxpY2FudCIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9jbG9zZWQuZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5BcHBsaWNhbnQ8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibEFwcGxpY2FudCIgc3R5bGU9IkRJU1BMQVk6bm9uZSI+DQpHdWlkbyBFYmVyZGluZyAoa2RoIGRlc2lnbikNCjxiciAvPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxTdGF0dXMnLCAnaW1nU3RhdHVzJyk7Ij4NCjxJTUcgaWQ9ImltZ1N0YXR1cyIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+RXZlbnRzPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxTdGF0dXMiPg0KPHRhYmxlIHdpZHRoPSc5OCUnIGNlbGxwYWRkaW5nPScxJyBjZWxsc3BhY2luZz0nMCc+PHRyIGNsYXNzPSd0YWJsZUFsdCc+PHRkPkRlc2NyaXB0aW9uPC90ZD48dGQ+U3RhcnQgRGF0ZTwvdGQ+PHRkPkNvbXBsZXRlZCBEYXRlPC90ZD48L3RyPjx0cj48L3RhYmxlPjwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxDbG9jaycsICdpbWdDbG9jaycpOyI+DQo8SU1HIGlkPSJpbWdDbG9jayIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+Q2xvY2smbmJzcDtTdGF0dXM8L0I+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIqIj4NCjxESVYgaWQ9ImxibENsb2NrIj4NCjxpbWcgc3JjPScuLi8uLi9jb21tb24vYmFzZWltYWdlcy9iYWxsX2dyZWVuLmdpZic+IENsb2NrIFJ1bm5pbmcuPGJyPjxpbWcgc3JjPScuLi8uLi9jb21tb24vYmFzZWltYWdlcy9jYWxlbmRhcjEuZ2lmJz4gVGhlIGNsb2NrIHdhcyBzdG9wcGVkIGZvciBhIHRvdGFsIG9mIDxiPjA8L2I+IGRheXMuPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibFJlbGF0ZWQnLCAnaW1nUmVsYXRlZCcpOyI+DQo8SU1HIGlkPSJpbWdSZWxhdGVkIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5SZWxhdGVkIEFwcGxpY2F0aW9uczwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsUmVsYXRlZCI+DQoNCiAgICAgIE5vIGFwcGxpY2F0aW9ucyByZWxhdGVkIHRvIHRoaXMgYXBwbGljYXRpb24uDQogICAgPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibENvc3QnLCAnaW1nQ29zdCcpOyI+DQo8SU1HIGlkPSJpbWdDb3N0IiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5Db3N0PC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmxDb3N0Ij4NCkVzdGltYXRlZCBjb3N0IG9mIGRldmVsb3BtZW50OiAkMTc2LDAwMC4wMDwvRElWPg0KPC9URD48L1RSPg0KPFRSPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj4NCjxTUEFOIHN0eWxlPSJDVVJTT1I6IGhhbmQiIG9uY2xpY2s9IlNob3dIaWRlKCdsYmxPZmZpY2VyJywgJ2ltZ09mZmljZXInKTsiPg0KPElNRyBpZD0iaW1nT2ZmaWNlciIgc3JjPSIuLi8uLi9jb21tb24vY29udHJvbGltYWdlcy9vcGVuLmdpZiI+DQo8L1NQQU4+PC9URD4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+PEI+T2ZmaWNlcjwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsT2ZmaWNlciI+DQpObyBvZmZpY2VyIHJlY29yZGVkPC9ESVY+DQo8L1REPjwvVFI+DQo8VFI+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPg0KPFNQQU4gc3R5bGU9IkNVUlNPUjogaGFuZCIgb25jbGljaz0iU2hvd0hpZGUoJ2xibERlY2lzaW9uJywgJ2ltZ0RlY2lzaW9uJyk7Ij4NCjxJTUcgaWQ9ImltZ0RlY2lzaW9uIiBzcmM9Ii4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmIj4NCjwvU1BBTj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IjIwIj48Qj5EZWNpc2lvbjwvQj48L1REPg0KPFREIHZBbGlnbj0idG9wIiBhbGlnbj0ibGVmdCIgd2lkdGg9IioiPg0KPERJViBpZD0ibGJsRGVjaXNpb24iPg0KUGVuZGluZyAoMTkvMDYvMjAxOSk8L0RJVj4NCjwvVEQ+PC9UUj4NCjxUUj4NCjxURCB2QWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSIyMCI+DQo8U1BBTiBzdHlsZT0iQ1VSU09SOiBoYW5kIiBvbmNsaWNrPSJTaG93SGlkZSgnbGJsOTEnLCAnaW1nOTEnKTsiPg0KPElNRyBpZD0iaW1nOTEiIHNyYz0iLi4vLi4vY29tbW9uL2NvbnRyb2xpbWFnZXMvb3Blbi5naWYiPg0KPC9TUEFOPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iMjAiPjxCPkVtYWlsPC9CPjwvVEQ+DQo8VEQgdkFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0IiB3aWR0aD0iKiI+DQo8RElWIGlkPSJsYmw5MSI+DQo8YSBocmVmPSJtYWlsdG86Y291bmNpbEBiZWxsaW5nZW4ubnN3Lmdvdi5hdT9zdWJqZWN0PURldmVsb3BtZW50IEFwcGxpY2F0aW9uIEVucXVpcnk6IDIwMTkvREEtMDAwNzggKERldmVsb3BtZW50IEFwcGxpY2F0aW9uKQ0KCQkmQm9keT0iIG9uZm9jdXM9InRoaXMuYmx1cigpIj48dT5Db250YWN0IHVzIGFib3V0IHRoaXMgYXBwbGljYXRpb24uPC91PjwvYT48L0RJVj4NCjwvVEQ+PC9UUj4NCmRkAgUPDxYCHwEFfDxhIGhyZWY9J2phdmFzY3JpcHQ6ZXhwYW5kQ29sbGFwc2UoImNvbGxhcHNlIiknPmNsb3NlIGFsbDwvYT4gfCA8YSBocmVmPSdqYXZhc2NyaXB0OmV4cGFuZENvbGxhcHNlKCJleHBhbmQiKSc+b3BlbiBhbGw8L2E+DQpkZAIJDxYCHwEFxQg8c2NyaXB0IGxhbmd1YWdlPSdqYXZhc2NyaXB0Jz4NCmZ1bmN0aW9uIFNob3dIaWRlKGEsIGIpIHsNCnZhciBpc19nZXRFbGVtZW50QnlJZCAgID0gKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKSA/IHRydWUgOiBmYWxzZTsNCnZhciBhZ3Q9bmF2aWdhdG9yLnVzZXJBZ2VudC50b0xvd2VyQ2FzZSgpOw0KaWYgKChhZ3QuaW5kZXhPZignbWFjJyk9PS0xfHxhZ3QuaW5kZXhPZignbXNpZScpPT0tMSkgJiYgaXNfZ2V0RWxlbWVudEJ5SWQpew0KaWYgKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5zdWJzdHJpbmcoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYikuc3JjLmxlbmd0aC04LGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGIpLnNyYy5sZW5ndGgpPT0nb3Blbi5naWYnKSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL2Nsb3NlZC5naWYnOw0KZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoYSkuc3R5bGUuZGlzcGxheT0nbm9uZSc7fQ0KZWxzZSB7DQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZChiKS5zcmM9Jy4uLy4uL2NvbW1vbi9jb250cm9saW1hZ2VzL29wZW4uZ2lmJzsNCmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGEpLnN0eWxlLmRpc3BsYXk9Jyc7fX19DQo8L3NjcmlwdD4NCjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiPldhaXQuc3R5bGUuZGlzcGxheSA9ICdub25lJzs8L3NjcmlwdD4NCjxkaXYgaWQ9ImRpdkJhY2tUb1RvcCIgIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZXRvcCgpIiBjbGFzcz0iSGlkZGVuTmF2Ij48aW1nIHNyYz0iLi4vLi4vY29tbW9uL2Jhc2VpbWFnZXMvdG9wLmdpZiIgd2lkdGg9IjE4IiBoZWlnaHQ9IjI3IiBib3JkZXI9IjAiIGFsdD0iVG9wIG9mIHBhZ2UiPjwvZGl2PjxkaXYgaWQ9ImRpdk1vcmVPblBhZ2UiIG9uQ2xpY2s9ImphdmFzY3JpcHQ6bXRfcGFnZWRvd24oKSIgY2xhc3M9IkhpZGRlbk5hdiI+PGltZyBzcmM9Ii4uLy4uL2NvbW1vbi9iYXNlaW1hZ2VzL21vcmUuZ2lmIiB3aWR0aD0iMjIiIGhlaWdodD0iMjciIGJvcmRlcj0iMCIgYWx0PSJNb3JlIGluZm9ybWF0aW9uIG9uIHBhZ2UiPjwvZGl2Pg0KZAIND2QWAmYPZBYCAgIPFgIfAQVzPGg1PkhlbHA8L2g1PjxzcGFuIGNsYXNzPSJhY2tuIj48YSBocmVmPSJodHRwOi8vd3d3LmNpdmljYS5jb20uYXUiIHRhcmdldD0iX2JsYW5rIj4mIzE2OTsgQ2l2aWNhIFB0eSBMdGQ8L2E+PC9zcGFuPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFDmN0bDA0JENsb3NlQnRuBQdIZWxwQnRuBQhQcmludEJ0bs2eAFPGMAeRMQLbLHmDN7m/iXN3\"
+        />\r\n\r\n<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\" id=\"__VIEWSTATEGENERATOR\"
+        value=\"8C83F922\" />\r\n\t\t\t<div id=\"Banner\" class=\"Banner\">\r\n\r\n\r\n<table
+        cellspacing='0' cellpadding='0' width='100%'>\r\n<tr>\r\n<td colspan='2' height='15'
+        class='fill'><font font-family='Arial' color='white'>Bellingen Shire Council</font></td>\r\n</tr>\r\n<tr>\r\n<td
+        style=\"background-color:#99CCFF;\"><img src='../../images/logo1.png'></td><td
+        style=\"background-color:#99CCFF;\" align='right'><img src='../../images/banner1.jpg'></td>\r\n</tr>\r\n<tr>\r\n<td
+        \ class='fill' colspan='2' height='15'>&nbsp;</td>\r\n</tr>\r\n</table></div><br
+        />\r\n\t\t\t<div id=\"LeftPane\">\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n<div id=\"ctl01_all\">\r\n\r\n\r\n<b>Search</b>\r\n<span id=\"ctl01_lblLinksAll\"><a
+        href='default.aspx?page=search' target='_self' class='current'>All Applications</a><br/><a
+        href='default.aspx?page=searchDA' target='_self'>Development&nbsp;Applications</a><br/><a
+        href='default.aspx?page=searchCC' target='_self'>Construction&nbsp;Certificates</a><br/><a
+        href='default.aspx?page=searchCDC' target='_self'>Complying Development</a><br/><a
+        href='default.aspx?page=searchMD' target='_self'>Modification&nbsp;Applications</a><br
+        /></span>\r\n<br>\r\n\r\n<!-- <span class=\"line\"></span> -->\r\n<b>All Submitted</b>\r\n<a
+        href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=F\" target=\"_self\">&nbsp;&nbsp;&nbsp;This
+        Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=F\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        --><br/>\r\n\r\n<b>All Determined</b>\r\n<a href=\"default.aspx?page=found&1=thisWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastWeek&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Week</a><br/>\r\n<a href=\"default.aspx?page=found&1=thismonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;This Month</a><br/>\r\n<a href=\"default.aspx?page=found&1=lastmonth&4a=DA,CC,CDC,TA,MD&6=T\"
+        target=\"_self\">&nbsp;&nbsp;&nbsp;Last Month</a><br />\r\n<!-- <span class=\"line\"></span>
+        -->\r\n</div>\r\n\r\n<!-- **********************************************************************************************************
+        -->\r\n\r\n\r\n\r\n<br/><br/>\r\n\r\n<div align=\"center\">\r\n\t<span id=\"ctl02_lblInfo\"></span>\r\n\t<!--
+        <img src=\"../../images/bn_logo.gif\" alt=\"MasterView\"/> -->\r\n</div>\r\n\r\n\r\n\r\n<br/><br/></div>\r\n\t\t\t<div
+        id=\"RightPane\"><div id=\"ctl03_pnlApplicationWrapper\" class=\"border\">\r\n\t\r\n\t<h5>Application
+        Details</h5>\r\n\t<h4>Application: <span id=\"ctl03_lblHead\">2019/DA-00078
+        (Development Application)\r\n\t\t</span></h4>\r\n\t<div class=\"list\">\r\n\t\t<p>\r\n\t\t<table
+        class=\"list\" cellSpacing=\"0\" cellPadding=\"1\" width=\"98%\" border=\"0\">\r\n\t\t\t<span
+        id=\"ctl03_lblDetails\"><TR>\r\n<TD vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN
+        style=\"CURSOR: hand\" onclick=\"ShowHide('lblDetails', 'imgDetails');\">\r\n<IMG
+        id=\"imgDetails\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Details</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblDetails\">\r\n<table>\r\n  <tr>\r\n
+        \   <td>\r\n        Description: Construction of a Secondary dwelling<br />\r\n
+        \       Submitted: 18/06/2019<br /></td>\r\n  </tr>\r\n</table>&nbsp;Determination
+        Description: Being Assessed</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblLand',
+        'imgLand');\">\r\n<IMG id=\"imgLand\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Address</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblLand\">\r\n151 Mount ST FERNMOUNT
+        NSW 2454\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblMap',
+        'imgMap');\">\r\n<IMG id=\"imgMap\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Map</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblMap\" style=\"DISPLAY:none\">\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapControls.aspx\"
+        width=\"500\" height=\"30\" scrolling=\"no\" frameborder=\"0\" name=\"mapControls\"></iframe>\r\n<iframe
+        src=\"http://infomaster.bellingen.nsw.gov.au/mapxserver/mapx.aspx?keys=6502&MapKeys=6502&host=\"
+        width=\"500\" height=\"500\" class=\"border\" scrolling=\"no\" frameborder=\"0\"
+        name=\"mapFrame\"></iframe><br></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblApplicant',
+        'imgApplicant');\">\r\n<IMG id=\"imgApplicant\" src=\"../../common/controlimages/closed.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Applicant</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblApplicant\" style=\"DISPLAY:none\">\r\nGuido
+        Eberding (kdh design)\r\n<br /></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblStatus',
+        'imgStatus');\">\r\n<IMG id=\"imgStatus\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Events</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblStatus\">\r\n<table width='98%'
+        cellpadding='1' cellspacing='0'><tr class='tableAlt'><td>Description</td><td>Start
+        Date</td><td>Completed Date</td></tr><tr></table></DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblClock', 'imgClock');\">\r\n<IMG id=\"imgClock\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Clock&nbsp;Status</B></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"*\">\r\n<DIV id=\"lblClock\">\r\n<img
+        src='../../common/baseimages/ball_green.gif'> Clock Running.<br><img src='../../common/baseimages/calendar1.gif'>
+        The clock was stopped for a total of <b>0</b> days.</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblRelated', 'imgRelated');\">\r\n<IMG id=\"imgRelated\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Related Applications</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblRelated\">\r\n\r\n      No applications
+        related to this application.\r\n    </DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblCost',
+        'imgCost');\">\r\n<IMG id=\"imgCost\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Cost</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblCost\">\r\nEstimated cost of development:
+        $176,000.00</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"20\">\r\n<SPAN style=\"CURSOR: hand\" onclick=\"ShowHide('lblOfficer',
+        'imgOfficer');\">\r\n<IMG id=\"imgOfficer\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Officer</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lblOfficer\">\r\nNo officer recorded</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lblDecision', 'imgDecision');\">\r\n<IMG id=\"imgDecision\"
+        src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"20\"><B>Decision</B></TD>\r\n<TD vAlign=\"top\" align=\"left\"
+        width=\"*\">\r\n<DIV id=\"lblDecision\">\r\nPending (19/06/2019)</DIV>\r\n</TD></TR>\r\n<TR>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\">\r\n<SPAN style=\"CURSOR: hand\"
+        onclick=\"ShowHide('lbl91', 'img91');\">\r\n<IMG id=\"img91\" src=\"../../common/controlimages/open.gif\">\r\n</SPAN></TD>\r\n<TD
+        vAlign=\"top\" align=\"left\" width=\"20\"><B>Email</B></TD>\r\n<TD vAlign=\"top\"
+        align=\"left\" width=\"*\">\r\n<DIV id=\"lbl91\">\r\n<a href=\"mailto:council@bellingen.nsw.gov.au?subject=Development
+        Application Enquiry: 2019/DA-00078 (Development Application)\r\n\t\t&Body=\"
         onfocus=\"this.blur()\"><u>Contact us about this application.</u></a></DIV>\r\n</TD></TR>\r\n</span>\r\n\t\t</table>\r\n\t\t</p>\r\n\t</div>\r\n\t<p><span
         id=\"ctl03_lblLink\"><a href='javascript:expandCollapse(\"collapse\")'>close
         all</a> | <a href='javascript:expandCollapse(\"expand\")'>open all</a>\r\n</span></p>\r\n\r\n</div>\r\n\r\n\r\n<div

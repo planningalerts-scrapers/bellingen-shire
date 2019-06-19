@@ -17,3 +17,27 @@
   info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63739
   date_scraped: '2019-05-14'
   date_received: '2019-06-07'
+- council_reference: 2019/DA-00075
+  address: 582 Old Coast RD NORTH DORRIGO NSW 2453
+  description: Construction of a Dwelling and Demolition of Unauthorised Works
+  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63746
+  date_scraped: '2019-05-14'
+  date_received: '2019-06-06'
+- council_reference: 2019/DA-00076
+  address: 11 Ironbark PL BELLINGEN NSW 2454
+  description: Construction of a Dwelling
+  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63761
+  date_scraped: '2019-05-14'
+  date_received: '2019-06-12'
+- council_reference: 2019/DA-00077
+  address: 28 Scotchman RD BELLINGEN NSW 2454
+  description: Construction of a Dwelling
+  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63770
+  date_scraped: '2019-05-14'
+  date_received: '2019-06-17'
+- council_reference: 2019/DA-00078
+  address: 151 Mount ST FERNMOUNT NSW 2454
+  description: Construction of a Secondary dwelling
+  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63773
+  date_scraped: '2019-05-14'
+  date_received: '2019-06-18'
